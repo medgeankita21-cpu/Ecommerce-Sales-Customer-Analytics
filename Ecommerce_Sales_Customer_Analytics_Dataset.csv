@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Category,Product,Quantity,Unit_Price,Sales,Profit,Region,State,Payment_Mode
+ORD00001,13-03-2025,CUST0053,Customer_0280,Electronics,Wireless Headphones,3.00,"? 3,316.26","? 9,948.78","? 2,088.33",West,Maharashtra,UPI
+ORD00002,05-11-2025,CUST0014,Customer_0288,Electronics,Smart Watch,2.00,"? 3,175.60","? 6,351.20","? 1,508.56",West,Gujarat,Net Banking
+ORD00003,04-01-2025,CUST0082,Customer_0217,Beauty,Moisturizer,4.00,"? 1,534.77","? 6,139.08",? 866.42,North,Delhi,Credit Card
+ORD00004,03-07-2025,CUST0177,Customer_0136,Home & Kitchen,Coffee Maker,1.00,"? 2,434.58","? 2,434.58",? 585.62,West,Gujarat,Net Banking
+ORD00005,18-11-2025,CUST0186,Customer_0296,Electronics,Smart Watch,1.00,"? 6,848.47","? 6,848.47","? 1,609.43",North,Rajasthan,UPI
+ORD00006,21-02-2025,CUST0195,Customer_0143,Clothing,Kurta,1.00,"? 3,037.02","? 3,037.02",? 667.69,South,Tamil Nadu,Debit Card
+ORD00007,17-05-2025,CUST0037,Customer_0088,Clothing,Sneakers,3.00,? 970.42,"? 2,911.26",? 699.89,East,West Bengal,Credit Card
+ORD00008,24-11-2025,CUST0286,Customer_0113,Beauty,Moisturizer,3.00,"? 2,475.38","? 7,426.14","? 1,971.10",North,Rajasthan,UPI
+ORD00009,03-02-2025,CUST0109,Customer_0291,Clothing,Hoodie,3.00,"? 1,583.73","? 4,751.19",? 602.35,West,Maharashtra,Cash on Delivery
+ORD00010,07-05-2025,CUST0288,Customer_0276,Beauty,Moisturizer,2.00,? 772.47,"? 1,544.94",? 377.50,North,Uttar Pradesh,Cash on Delivery
+ORD00011,12-03-2025,CUST0261,Customer_0253,Books,Novel,3.00,? 511.88,"? 1,535.64",? 378.19,North,Rajasthan,UPI
+ORD00012,17-07-2025,CUST0196,Customer_0240,Clothing,Sneakers,4.00,"? 2,208.51","? 8,834.04","? 1,195.34",South,Karnataka,Net Banking
+ORD00013,25-11-2025,CUST0175,Customer_0058,Electronics,Bluetooth Speaker,5.00,"? 9,135.09","? 45,675.45","? 8,022.82",West,Gujarat,Cash on Delivery
+ORD00014,17-09-2025,CUST0055,Customer_0153,Electronics,USB Cable,5.00,"? 9,262.57","? 46,312.85","? 9,909.72",South,Tamil Nadu,Credit Card
+ORD00015,29-09-2025,CUST0001,Customer_0166,Home & Kitchen,Cookware Set,5.00,"? 5,732.62","? 28,663.10","? 2,415.87",South,Karnataka,Debit Card
+ORD00016,18-10-2025,CUST0041,Customer_0044,Home & Kitchen,Cookware Set,1.00,"? 1,635.01","? 1,635.01",? 424.33,North,Delhi,Net Banking
+ORD00017,26-03-2025,CUST0136,Customer_0271,Clothing,Sneakers,4.00,"? 3,329.92","? 13,319.68","? 2,305.51",South,Karnataka,Credit Card
+ORD00018,10-12-2025,CUST0192,Customer_0225,Books,Children Book,3.00,? 808.34,"? 2,425.02",? 434.87,North,Delhi,Credit Card
+ORD00019,11-10-2025,CUST0118,Customer_0113,Clothing,T-Shirt,3.00,? 367.31,"? 1,101.93",? 105.36,West,Gujarat,UPI
+ORD00020,06-02-2025,CUST0264,Customer_0122,Clothing,Hoodie,1.00,"? 3,050.83","? 3,050.83",? 693.07,West,Gujarat,Credit Card
+ORD00021,05-05-2025,CUST0243,Customer_0209,Books,Self Help Book,5.00,"? 1,100.75","? 5,503.75",? 554.51,South,Karnataka,Cash on Delivery
+ORD00022,28-01-2025,CUST0051,Customer_0032,Home & Kitchen,Cookware Set,4.00,"? 2,935.39","? 11,741.56","? 2,820.40",North,Rajasthan,UPI
+ORD00023,13-03-2025,CUST0217,Customer_0094,Clothing,Hoodie,2.00,"? 2,016.11","? 4,032.22",? 732.97,North,Delhi,UPI
+ORD00024,04-10-2025,CUST0008,Customer_0048,Beauty,Shampoo,1.00,"? 1,682.54","? 1,682.54",? 196.16,West,Gujarat,Cash on Delivery
+ORD00025,26-03-2025,CUST0195,Customer_0002,Beauty,Perfume,4.00,"? 2,270.74","? 9,082.96","? 1,256.58",North,Delhi,Cash on Delivery
+ORD00026,07-09-2025,CUST0080,Customer_0098,Home & Kitchen,Bedsheet,5.00,"? 4,055.76","? 20,278.80","? 2,593.54",North,Rajasthan,UPI
+ORD00027,27-10-2025,CUST0245,Customer_0258,Books,Children Book,3.00,? 244.32,? 732.96,? 84.02,West,Maharashtra,Net Banking
+ORD00028,12-12-2025,CUST0121,Customer_0207,Electronics,Wireless Headphones,1.00,"? 7,342.90","? 7,342.90","? 2,108.52",South,Karnataka,Net Banking
+ORD00029,03-12-2025,CUST0299,Customer_0290,Clothing,Sneakers,5.00,? 562.35,"? 2,811.75",? 420.64,West,Maharashtra,Debit Card
+ORD00030,09-03-2025,CUST0154,Customer_0235,Clothing,Hoodie,2.00,"? 1,149.97","? 2,299.94",? 654.07,East,West Bengal,UPI
+ORD00031,21-02-2025,CUST0038,Customer_0276,Electronics,Smart Watch,5.00,"? 11,982.23","? 59,911.15","? 11,460.68",North,Uttar Pradesh,Credit Card
+ORD00032,22-03-2025,CUST0225,Customer_0279,Home & Kitchen,Bedsheet,2.00,"? 2,374.78","? 4,749.56","? 1,019.11",West,Gujarat,Net Banking
+ORD00033,10-03-2025,CUST0136,Customer_0060,Electronics,Wireless Headphones,1.00,"? 11,297.70","? 11,297.70","? 2,749.09",South,Tamil Nadu,Credit Card
+ORD00034,25-06-2025,CUST0105,Customer_0136,Home & Kitchen,Water Bottle,5.00,"? 1,461.12","? 7,305.60","? 1,369.63",South,Tamil Nadu,UPI
+ORD00035,20-06-2025,CUST0067,Customer_0135,Electronics,Smart Watch,3.00,"? 1,007.00","? 3,021.00",? 734.32,North,Rajasthan,Net Banking
+ORD00036,20-12-2025,CUST0077,Customer_0280,Beauty,Face Wash,1.00,? 326.82,? 326.82,? 86.15,West,Maharashtra,Net Banking
+ORD00037,07-06-2025,CUST0187,Customer_0021,Books,Data Science Book,4.00,? 360.29,"? 1,441.16",? 181.90,South,Karnataka,Credit Card
+ORD00038,28-07-2025,CUST0080,Customer_0122,Electronics,Smart Watch,5.00,"? 10,667.55","? 53,337.75","? 15,722.12",East,West Bengal,Credit Card
+ORD00039,20-06-2025,CUST0211,Customer_0128,Beauty,Moisturizer,2.00,"? 1,880.93","? 3,761.86",? 432.70,West,Maharashtra,UPI
+ORD00040,24-08-2025,CUST0180,Customer_0157,Beauty,Shampoo,4.00,? 672.72,"? 2,690.88",? 347.24,West,Maharashtra,Credit Card
+ORD00041,23-05-2025,CUST0180,Customer_0261,Beauty,Perfume,3.00,"? 2,181.23","? 6,543.69","? 1,501.74",East,West Bengal,Net Banking
+ORD00042,14-05-2025,CUST0092,Customer_0298,Home & Kitchen,Bedsheet,1.00,"? 5,292.97","? 5,292.97",? 467.99,West,Maharashtra,Net Banking
+ORD00043,19-09-2025,CUST0060,Customer_0198,Beauty,Hair Dryer,3.00,"? 1,175.53","? 3,526.59",? 429.60,East,West Bengal,UPI
+ORD00044,03-10-2025,CUST0101,Customer_0187,Beauty,Perfume,5.00,"? 2,325.10","? 11,625.50","? 1,109.01",West,Maharashtra,Debit Card
+ORD00045,03-06-2025,CUST0260,Customer_0159,Books,Cooking Book,1.00,"? 1,337.59","? 1,337.59",? 202.99,East,West Bengal,Debit Card
+ORD00046,14-07-2025,CUST0090,Customer_0292,Books,Data Science Book,2.00,? 843.74,"? 1,687.48",? 285.75,South,Karnataka,UPI
+ORD00047,24-10-2025,CUST0165,Customer_0239,Home & Kitchen,Cookware Set,2.00,"? 2,721.86","? 5,443.72",? 965.04,South,Tamil Nadu,Credit Card
+ORD00048,26-05-2025,CUST0264,Customer_0172,Books,Novel,2.00,"? 1,237.10","? 2,474.20",? 643.42,North,Uttar Pradesh,Credit Card
+ORD00049,24-01-2025,CUST0126,Customer_0244,Home & Kitchen,Water Bottle,2.00,"? 1,097.29","? 2,194.58",? 585.83,North,Delhi,UPI
+ORD00050,23-12-2025,CUST0197,Customer_0254,Beauty,Perfume,5.00,? 606.92,"? 3,034.60",? 405.65,North,Rajasthan,UPI
+ORD00051,23-12-2025,CUST0266,Customer_0238,Electronics,Wireless Headphones,2.00,"? 2,522.70","? 5,045.40","? 1,022.35",North,Rajasthan,UPI
+ORD00052,14-10-2025,CUST0163,Customer_0227,Beauty,Hair Dryer,4.00,"? 1,718.81","? 6,875.24","? 1,782.76",South,Karnataka,Net Banking
+ORD00053,01-09-2025,CUST0231,Customer_0133,Beauty,Shampoo,2.00,"? 1,897.59","? 3,795.18","? 1,004.85",North,Uttar Pradesh,Debit Card
+ORD00054,09-02-2025,CUST0147,Customer_0121,Books,Data Science Book,2.00,? 603.09,"? 1,206.18",? 185.61,North,Uttar Pradesh,Net Banking
+ORD00055,22-12-2025,CUST0079,Customer_0110,Electronics,Wireless Headphones,2.00,"? 3,159.51","? 6,319.02","? 1,082.26",South,Karnataka,Debit Card
+ORD00056,04-08-2025,CUST0200,Customer_0300,Books,Novel,4.00,? 252.74,"? 1,010.96",? 271.42,North,Uttar Pradesh,Net Banking
+ORD00057,02-06-2025,CUST0200,Customer_0215,Beauty,Hair Dryer,1.00,"? 2,365.44","? 2,365.44",? 578.24,North,Uttar Pradesh,Net Banking
+ORD00058,12-08-2025,CUST0249,Customer_0015,Books,Cooking Book,4.00,? 512.05,"? 2,048.20",? 315.32,North,Delhi,Cash on Delivery
+ORD00059,01-10-2025,CUST0014,Customer_0202,Clothing,Sneakers,2.00,"? 3,438.31","? 6,876.62","? 1,403.97",North,Uttar Pradesh,UPI
+ORD00060,04-04-2025,CUST0026,Customer_0134,Electronics,Power Bank,2.00,"? 10,468.79","? 20,937.58","? 3,182.88",North,Rajasthan,Cash on Delivery
+ORD00061,04-08-2025,CUST0130,Customer_0042,Home & Kitchen,Cookware Set,4.00,"? 1,849.98","? 7,399.92",? 623.55,East,West Bengal,Net Banking
+ORD00062,30-11-2025,CUST0021,Customer_0016,Electronics,Smart Watch,2.00,"? 7,976.66","? 15,953.32","? 1,975.97",East,West Bengal,UPI
+ORD00063,09-12-2025,CUST0059,Customer_0289,Books,Self Help Book,2.00,? 358.26,? 716.52,? 130.63,South,Karnataka,Debit Card
+ORD00064,28-02-2025,CUST0084,Customer_0160,Home & Kitchen,Coffee Maker,5.00,"? 3,741.67","? 18,708.35","? 3,878.44",South,Karnataka,Debit Card
+ORD00065,12-04-2025,CUST0039,Customer_0125,Books,Novel,4.00,"? 1,703.43","? 6,813.72","? 1,590.20",North,Rajasthan,Debit Card
+ORD00066,27-06-2025,CUST0273,Customer_0220,Books,Data Science Book,5.00,"? 1,441.35","? 7,206.75",? 685.87,West,Gujarat,Debit Card
+ORD00067,05-07-2025,CUST0236,Customer_0079,Electronics,Power Bank,4.00,"? 1,713.70","? 6,854.80",? 814.01,North,Rajasthan,Net Banking
+ORD00068,31-10-2025,CUST0138,Customer_0166,Home & Kitchen,Mixer Grinder,4.00,"? 2,754.55","? 11,018.20","? 2,895.15",North,Uttar Pradesh,UPI
+ORD00069,19-10-2025,CUST0195,Customer_0173,Home & Kitchen,Coffee Maker,2.00,"? 4,565.24","? 9,130.48","? 1,723.35",North,Uttar Pradesh,Debit Card
+ORD00070,13-05-2025,CUST0175,Customer_0144,Clothing,Sneakers,2.00,"? 1,435.44","? 2,870.88",? 672.53,North,Uttar Pradesh,Debit Card
+ORD00071,13-02-2025,CUST0124,Customer_0209,Books,Cooking Book,5.00,"? 1,714.30","? 8,571.50","? 1,732.63",West,Maharashtra,Credit Card
+ORD00072,17-02-2025,CUST0151,Customer_0114,Beauty,Perfume,4.00,"? 2,013.39","? 8,053.56","? 1,869.98",North,Uttar Pradesh,Debit Card
+ORD00073,26-06-2025,CUST0218,Customer_0282,Books,Data Science Book,4.00,"? 1,063.23","? 4,252.92",? 669.40,East,West Bengal,Cash on Delivery
+ORD00074,09-04-2025,CUST0162,Customer_0062,Home & Kitchen,Water Bottle,3.00,"? 1,575.59","? 4,726.77","? 1,366.95",South,Tamil Nadu,Credit Card
+ORD00075,29-10-2025,CUST0269,Customer_0145,Clothing,T-Shirt,4.00,"? 1,184.80","? 4,739.20","? 1,247.25",North,Delhi,Debit Card
+ORD00076,29-12-2025,CUST0274,Customer_0065,Clothing,Hoodie,2.00,"? 1,267.26","? 2,534.52",? 228.14,East,West Bengal,UPI
+ORD00077,09-09-2025,CUST0053,Customer_0007,Books,Children Book,2.00,"? 1,202.48","? 2,404.96",? 342.84,South,Tamil Nadu,Cash on Delivery
+ORD00078,10-05-2025,CUST0245,Customer_0059,Beauty,Face Wash,2.00,"? 2,418.92","? 4,837.84",? 813.51,East,West Bengal,UPI
+ORD00079,16-10-2025,CUST0156,Customer_0044,Books,Self Help Book,2.00,? 396.18,? 792.36,? 84.04,West,Maharashtra,Cash on Delivery
+ORD00080,15-08-2025,CUST0153,Customer_0220,Books,Data Science Book,5.00,? 777.62,"? 3,888.10",? 797.44,North,Delhi,UPI
+ORD00081,16-05-2025,CUST0042,Customer_0081,Books,Self Help Book,2.00,"? 1,182.10","? 2,364.20",? 279.54,West,Gujarat,UPI
+ORD00082,01-11-2025,CUST0241,Customer_0150,Clothing,T-Shirt,4.00,"? 1,741.61","? 6,966.44",? 912.08,West,Maharashtra,Debit Card
+ORD00083,17-11-2025,CUST0102,Customer_0218,Beauty,Face Wash,2.00,"? 2,321.19","? 4,642.38",? 927.56,West,Gujarat,Credit Card
+ORD00084,07-06-2025,CUST0292,Customer_0148,Home & Kitchen,Cookware Set,1.00,? 592.92,? 592.92,? 63.65,South,Karnataka,Debit Card
+ORD00085,13-08-2025,CUST0042,Customer_0021,Beauty,Perfume,5.00,"? 1,418.96","? 7,094.80","? 1,714.09",South,Tamil Nadu,Net Banking
+ORD00086,12-12-2025,CUST0295,Customer_0011,Home & Kitchen,Bedsheet,1.00,"? 1,566.32","? 1,566.32",? 323.87,West,Maharashtra,Credit Card
+ORD00087,27-10-2025,CUST0224,Customer_0252,Beauty,Face Wash,3.00,? 576.50,"? 1,729.50",? 317.19,North,Uttar Pradesh,Cash on Delivery
+ORD00088,18-06-2025,CUST0211,Customer_0254,Home & Kitchen,Bedsheet,1.00,"? 5,181.97","? 5,181.97","? 1,169.92",East,West Bengal,Cash on Delivery
+ORD00089,10-05-2025,CUST0166,Customer_0060,Books,Cooking Book,4.00,? 295.30,"? 1,181.20",? 319.26,West,Maharashtra,UPI
+ORD00090,23-09-2025,CUST0186,Customer_0256,Books,Cooking Book,4.00,? 239.44,? 957.76,? 236.76,North,Uttar Pradesh,Credit Card
+ORD00091,24-12-2025,CUST0249,Customer_0063,Home & Kitchen,Coffee Maker,3.00,"? 2,769.17","? 8,307.51","? 2,443.17",South,Karnataka,Net Banking
+ORD00092,10-10-2025,CUST0209,Customer_0048,Clothing,Jeans,3.00,"? 2,062.68","? 6,188.04","? 1,845.87",South,Karnataka,UPI
+ORD00093,30-05-2025,CUST0261,Customer_0140,Beauty,Perfume,2.00,"? 1,321.18","? 2,642.36",? 696.63,West,Gujarat,Cash on Delivery
+ORD00094,08-04-2025,CUST0261,Customer_0070,Clothing,T-Shirt,5.00,? 762.85,"? 3,814.25",? 536.95,North,Uttar Pradesh,Cash on Delivery
+ORD00095,02-06-2025,CUST0297,Customer_0251,Home & Kitchen,Mixer Grinder,1.00,"? 1,876.32","? 1,876.32",? 334.44,South,Tamil Nadu,Cash on Delivery
+ORD00096,13-07-2025,CUST0234,Customer_0165,Home & Kitchen,Mixer Grinder,5.00,"? 4,636.52","? 23,182.60","? 6,856.73",East,West Bengal,Credit Card
+ORD00097,30-07-2025,CUST0023,Customer_0163,Books,Cooking Book,2.00,"? 1,562.42","? 3,124.84",? 734.81,North,Rajasthan,Cash on Delivery
+ORD00098,06-03-2025,CUST0258,Customer_0170,Beauty,Face Wash,4.00,"? 2,417.34","? 9,669.36","? 2,633.18",South,Karnataka,Cash on Delivery
+ORD00099,29-07-2025,CUST0080,Customer_0039,Electronics,Power Bank,1.00,"? 8,808.10","? 8,808.10","? 2,219.07",North,Uttar Pradesh,Debit Card
+ORD00100,12-12-2025,CUST0274,Customer_0195,Home & Kitchen,Bedsheet,1.00,"? 5,147.65","? 5,147.65","? 1,121.65",North,Rajasthan,Cash on Delivery
+ORD00101,20-11-2025,CUST0148,Customer_0117,Books,Novel,5.00,? 262.89,"? 1,314.45",? 230.65,West,Maharashtra,UPI
+ORD00102,15-01-2025,CUST0024,Customer_0167,Electronics,Wireless Headphones,2.00,"? 8,481.01","? 16,962.02","? 2,451.71",North,Uttar Pradesh,Debit Card
+ORD00103,17-10-2025,CUST0093,Customer_0088,Beauty,Shampoo,2.00,"? 1,398.24","? 2,796.48",? 272.30,South,Karnataka,Cash on Delivery
+ORD00104,15-03-2025,CUST0119,Customer_0237,Books,Data Science Book,4.00,"? 1,656.17","? 6,624.68","? 1,199.77",North,Delhi,UPI
+ORD00105,15-08-2025,CUST0177,Customer_0154,Beauty,Perfume,5.00,? 521.24,"? 2,606.20",? 604.30,South,Tamil Nadu,Cash on Delivery
+ORD00106,24-02-2025,CUST0122,Customer_0196,Home & Kitchen,Water Bottle,4.00,"? 5,156.68","? 20,626.72","? 3,279.05",North,Delhi,Debit Card
+ORD00107,17-10-2025,CUST0026,Customer_0255,Home & Kitchen,Bedsheet,4.00,"? 1,828.26","? 7,313.04","? 1,833.11",West,Maharashtra,Credit Card
+ORD00108,14-11-2025,CUST0129,Customer_0071,Books,Novel,2.00,"? 1,200.42","? 2,400.84",? 669.23,East,West Bengal,UPI
+ORD00109,09-03-2025,CUST0047,Customer_0152,Home & Kitchen,Bedsheet,1.00,"? 3,582.55","? 3,582.55",? 875.74,North,Uttar Pradesh,Credit Card
+ORD00110,07-07-2025,CUST0272,Customer_0257,Clothing,Hoodie,5.00,"? 3,104.67","? 15,523.35","? 4,078.05",South,Karnataka,Debit Card
+ORD00111,28-08-2025,CUST0039,Customer_0073,Beauty,Shampoo,3.00,"? 2,039.95","? 6,119.85","? 1,647.65",South,Tamil Nadu,Cash on Delivery
+ORD00112,08-01-2025,CUST0136,Customer_0275,Books,Novel,1.00,"? 1,454.63","? 1,454.63",? 261.91,East,West Bengal,Debit Card
+ORD00113,30-04-2025,CUST0242,Customer_0013,Books,Children Book,3.00,? 328.77,? 986.31,? 270.77,North,Rajasthan,Net Banking
+ORD00114,26-08-2025,CUST0155,Customer_0210,Home & Kitchen,Coffee Maker,1.00,"? 3,903.57","? 3,903.57",? 432.32,North,Delhi,UPI
+ORD00115,03-10-2025,CUST0070,Customer_0199,Home & Kitchen,Cookware Set,1.00,? 808.85,? 808.85,? 130.73,North,Uttar Pradesh,Net Banking
+ORD00116,08-09-2025,CUST0209,Customer_0144,Beauty,Face Wash,4.00,"? 1,689.07","? 6,756.28","? 1,566.52",South,Karnataka,Credit Card
+ORD00117,20-02-2025,CUST0189,Customer_0279,Beauty,Moisturizer,2.00,"? 2,160.31","? 4,320.62",? 403.20,North,Uttar Pradesh,Debit Card
+ORD00118,19-04-2025,CUST0011,Customer_0026,Clothing,Hoodie,4.00,? 593.35,"? 2,373.40",? 317.05,West,Gujarat,Credit Card
+ORD00119,11-10-2025,CUST0107,Customer_0111,Books,Self Help Book,1.00,"? 1,519.20","? 1,519.20",? 231.35,North,Delhi,Credit Card
+ORD00120,16-03-2025,CUST0067,Customer_0277,Books,Data Science Book,3.00,"? 1,566.37","? 4,699.11","? 1,201.44",West,Maharashtra,UPI
+ORD00121,02-05-2025,CUST0166,Customer_0009,Electronics,Smart Watch,1.00,"? 4,619.79","? 4,619.79",? 639.29,South,Karnataka,Credit Card
+ORD00122,05-07-2025,CUST0263,Customer_0056,Beauty,Perfume,1.00,"? 1,269.18","? 1,269.18",? 242.22,West,Gujarat,Net Banking
+ORD00123,16-01-2025,CUST0032,Customer_0246,Electronics,Power Bank,4.00,"? 7,898.42","? 31,593.68","? 5,490.36",South,Tamil Nadu,UPI
+ORD00124,14-06-2025,CUST0076,Customer_0034,Beauty,Shampoo,1.00,"? 2,263.28","? 2,263.28",? 318.00,North,Uttar Pradesh,Net Banking
+ORD00125,29-09-2025,CUST0151,Customer_0233,Books,Children Book,4.00,"? 1,791.14","? 7,164.56","? 1,527.44",East,West Bengal,UPI
+ORD00126,27-04-2025,CUST0212,Customer_0174,Electronics,Power Bank,4.00,"? 5,692.88","? 22,771.52","? 3,819.25",North,Delhi,UPI
+ORD00127,11-07-2025,CUST0079,Customer_0243,Home & Kitchen,Coffee Maker,3.00,"? 4,074.37","? 12,223.11","? 1,223.16",North,Rajasthan,UPI
+ORD00128,10-07-2025,CUST0067,Customer_0285,Electronics,Wireless Headphones,1.00,"? 9,062.77","? 9,062.77","? 1,894.32",North,Rajasthan,Net Banking
+ORD00129,07-12-2025,CUST0217,Customer_0027,Books,Data Science Book,1.00,? 827.83,? 827.83,? 175.57,East,West Bengal,Debit Card
+ORD00130,25-04-2025,CUST0056,Customer_0180,Electronics,USB Cable,2.00,"? 8,052.47","? 16,104.94","? 2,590.70",North,Delhi,Debit Card
+ORD00131,15-11-2025,CUST0286,Customer_0014,Books,Children Book,4.00,"? 1,544.51","? 6,178.04","? 1,757.03",North,Delhi,Debit Card
+ORD00132,08-06-2025,CUST0174,Customer_0180,Electronics,Wireless Headphones,3.00,"? 8,581.04","? 25,743.12","? 3,086.84",South,Karnataka,Credit Card
+ORD00133,21-11-2025,CUST0016,Customer_0047,Books,Children Book,1.00,? 384.09,? 384.09,? 48.91,North,Rajasthan,Cash on Delivery
+ORD00134,16-06-2025,CUST0291,Customer_0044,Beauty,Face Wash,2.00,"? 1,019.62","? 2,039.24",? 232.94,East,West Bengal,Net Banking
+ORD00135,06-08-2025,CUST0249,Customer_0227,Electronics,Power Bank,3.00,"? 5,595.80","? 16,787.40","? 2,351.86",West,Gujarat,Net Banking
+ORD00136,14-12-2025,CUST0250,Customer_0270,Electronics,Bluetooth Speaker,4.00,"? 1,775.23","? 7,100.92",? 639.02,East,West Bengal,Cash on Delivery
+ORD00137,19-04-2025,CUST0071,Customer_0131,Books,Data Science Book,1.00,? 487.30,? 487.30,? 74.16,West,Maharashtra,UPI
+ORD00138,30-09-2025,CUST0118,Customer_0257,Beauty,Hair Dryer,2.00,? 453.59,? 907.18,? 238.89,North,Rajasthan,Debit Card
+ORD00139,24-08-2025,CUST0040,Customer_0161,Electronics,USB Cable,1.00,"? 5,516.53","? 5,516.53",? 962.32,North,Rajasthan,Cash on Delivery
+ORD00140,16-06-2025,CUST0088,Customer_0236,Beauty,Moisturizer,1.00,"? 1,101.83","? 1,101.83",? 109.51,South,Tamil Nadu,UPI
+ORD00141,10-02-2025,CUST0203,Customer_0159,Clothing,Hoodie,5.00,"? 1,581.44","? 7,907.20","? 1,018.02",North,Rajasthan,Credit Card
+ORD00142,28-06-2025,CUST0180,Customer_0076,Electronics,Smart Watch,5.00,"? 6,364.45","? 31,822.25","? 3,265.50",West,Gujarat,Debit Card
+ORD00143,02-12-2025,CUST0039,Customer_0091,Clothing,Kurta,5.00,? 789.18,"? 3,945.90",? 718.43,South,Karnataka,Net Banking
+ORD00144,16-11-2025,CUST0166,Customer_0162,Books,Self Help Book,5.00,"? 1,210.94","? 6,054.70","? 1,070.16",North,Uttar Pradesh,Cash on Delivery
+ORD00145,30-06-2025,CUST0260,Customer_0038,Beauty,Moisturizer,3.00,"? 1,539.84","? 4,619.52",? 838.83,South,Tamil Nadu,UPI
+ORD00146,16-02-2025,CUST0260,Customer_0197,Electronics,Power Bank,3.00,"? 1,382.41","? 4,147.23",? 861.27,East,West Bengal,UPI
+ORD00147,14-09-2025,CUST0078,Customer_0032,Beauty,Perfume,3.00,"? 1,571.76","? 4,715.28",? 484.59,North,Delhi,Debit Card
+ORD00148,13-08-2025,CUST0225,Customer_0269,Electronics,USB Cable,1.00,"? 3,349.05","? 3,349.05",? 717.22,South,Karnataka,Debit Card
+ORD00149,23-06-2025,CUST0027,Customer_0172,Home & Kitchen,Coffee Maker,4.00,"? 2,600.42","? 10,401.68","? 1,586.59",South,Tamil Nadu,Net Banking
+ORD00150,03-12-2025,CUST0077,Customer_0171,Beauty,Face Wash,3.00,"? 1,850.77","? 5,552.31","? 1,156.01",South,Tamil Nadu,Credit Card
+ORD00151,29-12-2025,CUST0044,Customer_0159,Home & Kitchen,Water Bottle,4.00,? 991.47,"? 3,965.88",? 645.92,South,Tamil Nadu,Debit Card
+ORD00152,10-01-2025,CUST0186,Customer_0159,Clothing,Jeans,4.00,"? 1,927.16","? 7,708.64","? 2,229.78",West,Gujarat,Debit Card
+ORD00153,21-03-2025,CUST0040,Customer_0152,Beauty,Face Wash,2.00,"? 2,499.95","? 4,999.90",? 958.44,North,Delhi,Net Banking
+ORD00154,13-11-2025,CUST0068,Customer_0193,Books,Self Help Book,3.00,"? 1,596.05","? 4,788.15",? 553.96,West,Maharashtra,Net Banking
+ORD00155,13-12-2025,CUST0122,Customer_0228,Clothing,Sneakers,1.00,"? 1,614.75","? 1,614.75",? 230.40,North,Uttar Pradesh,Cash on Delivery
+ORD00156,29-08-2025,CUST0100,Customer_0189,Clothing,Sneakers,3.00,"? 3,389.91","? 10,169.73","? 3,016.11",North,Delhi,Cash on Delivery
+ORD00157,24-03-2025,CUST0103,Customer_0071,Home & Kitchen,Bedsheet,5.00,"? 3,282.89","? 16,414.45","? 1,501.59",North,Rajasthan,Cash on Delivery
+ORD00158,26-05-2025,CUST0043,Customer_0083,Home & Kitchen,Bedsheet,5.00,"? 5,144.20","? 25,721.00","? 4,600.21",West,Gujarat,Net Banking
+ORD00159,24-04-2025,CUST0231,Customer_0179,Clothing,T-Shirt,1.00,"? 3,328.52","? 3,328.52",? 570.10,North,Rajasthan,Cash on Delivery
+ORD00160,11-02-2025,CUST0192,Customer_0115,Books,Novel,2.00,? 787.17,"? 1,574.34",? 236.33,East,West Bengal,UPI
+ORD00161,30-08-2025,CUST0072,Customer_0241,Home & Kitchen,Cookware Set,2.00,? 470.24,? 940.48,? 202.56,South,Karnataka,UPI
+ORD00162,08-10-2025,CUST0271,Customer_0217,Electronics,Wireless Headphones,2.00,"? 10,102.08","? 20,204.16","? 5,066.35",South,Tamil Nadu,Credit Card
+ORD00163,24-11-2025,CUST0235,Customer_0033,Home & Kitchen,Coffee Maker,1.00,"? 1,621.03","? 1,621.03",? 428.07,West,Gujarat,Cash on Delivery
+ORD00164,15-03-2025,CUST0150,Customer_0220,Books,Novel,5.00,"? 1,098.83","? 5,494.15","? 1,182.66",West,Maharashtra,Credit Card
+ORD00165,13-02-2025,CUST0269,Customer_0185,Books,Novel,2.00,"? 1,246.21","? 2,492.42",? 722.18,North,Rajasthan,Net Banking
+ORD00166,23-01-2025,CUST0199,Customer_0192,Books,Data Science Book,4.00,"? 1,591.00","? 6,364.00","? 1,555.42",West,Maharashtra,Debit Card
+ORD00167,18-11-2025,CUST0054,Customer_0298,Electronics,Bluetooth Speaker,2.00,"? 8,928.82","? 17,857.64","? 1,952.73",East,West Bengal,Debit Card
+ORD00168,17-12-2025,CUST0238,Customer_0246,Books,Self Help Book,2.00,"? 1,520.13","? 3,040.26",? 786.00,East,West Bengal,UPI
+ORD00169,13-04-2025,CUST0022,Customer_0162,Beauty,Moisturizer,3.00,? 623.74,"? 1,871.22",? 361.86,West,Maharashtra,Net Banking
+ORD00170,08-04-2025,CUST0147,Customer_0183,Beauty,Face Wash,1.00,"? 1,920.23","? 1,920.23",? 519.38,South,Tamil Nadu,Debit Card
+ORD00171,24-07-2025,CUST0226,Customer_0198,Home & Kitchen,Bedsheet,3.00,"? 2,762.47","? 8,287.41","? 2,438.32",West,Gujarat,Cash on Delivery
+ORD00172,12-02-2025,CUST0218,Customer_0041,Beauty,Perfume,5.00,? 776.79,"? 3,883.95",? 825.49,East,West Bengal,Credit Card
+ORD00173,17-06-2025,CUST0152,Customer_0157,Books,Cooking Book,3.00,? 319.29,? 957.87,? 203.62,South,Tamil Nadu,Cash on Delivery
+ORD00174,30-06-2025,CUST0223,Customer_0141,Clothing,T-Shirt,3.00,"? 1,730.81","? 5,192.43",? 501.12,North,Uttar Pradesh,Cash on Delivery
+ORD00175,08-11-2025,CUST0225,Customer_0018,Home & Kitchen,Mixer Grinder,1.00,"? 1,070.98","? 1,070.98",? 101.52,South,Karnataka,Debit Card
+ORD00176,20-03-2025,CUST0231,Customer_0190,Home & Kitchen,Bedsheet,5.00,? 436.22,"? 2,181.10",? 387.51,North,Rajasthan,UPI
+ORD00177,10-06-2025,CUST0143,Customer_0128,Books,Novel,5.00,? 755.47,"? 3,777.35",? 323.72,South,Karnataka,Credit Card
+ORD00178,14-05-2025,CUST0229,Customer_0110,Beauty,Hair Dryer,5.00,? 426.74,"? 2,133.70",? 304.75,North,Rajasthan,Cash on Delivery
+ORD00179,20-08-2025,CUST0089,Customer_0228,Clothing,T-Shirt,2.00,"? 3,029.04","? 6,058.08","? 1,564.88",West,Gujarat,Debit Card
+ORD00180,03-06-2025,CUST0081,Customer_0090,Home & Kitchen,Bedsheet,5.00,"? 3,367.49","? 16,837.45","? 3,231.55",West,Gujarat,UPI
+ORD00181,14-01-2025,CUST0185,Customer_0284,Clothing,Sneakers,2.00,"? 2,829.19","? 5,658.38",? 911.91,South,Karnataka,Net Banking
+ORD00182,03-09-2025,CUST0270,Customer_0211,Clothing,Kurta,1.00,"? 1,289.73","? 1,289.73",? 336.79,West,Gujarat,UPI
+ORD00183,15-12-2025,CUST0265,Customer_0177,Clothing,Jeans,1.00,"? 1,739.92","? 1,739.92",? 475.26,East,West Bengal,Net Banking
+ORD00184,29-01-2025,CUST0064,Customer_0266,Books,Self Help Book,2.00,? 863.82,"? 1,727.64",? 253.80,South,Karnataka,Credit Card
+ORD00185,23-09-2025,CUST0146,Customer_0041,Home & Kitchen,Bedsheet,3.00,"? 5,698.03","? 17,094.09","? 2,105.76",North,Delhi,Net Banking
+ORD00186,17-02-2025,CUST0258,Customer_0087,Home & Kitchen,Water Bottle,3.00,"? 3,782.96","? 11,348.88","? 3,258.87",South,Karnataka,Credit Card
+ORD00187,15-01-2025,CUST0042,Customer_0024,Clothing,Sneakers,5.00,? 431.82,"? 2,159.10",? 298.44,East,West Bengal,Credit Card
+ORD00188,12-09-2025,CUST0280,Customer_0149,Books,Data Science Book,5.00,"? 1,204.34","? 6,021.70","? 1,121.53",North,Rajasthan,Cash on Delivery
+ORD00189,22-03-2025,CUST0226,Customer_0213,Home & Kitchen,Cookware Set,1.00,"? 4,209.53","? 4,209.53",? 766.88,North,Uttar Pradesh,Debit Card
+ORD00190,13-06-2025,CUST0177,Customer_0205,Books,Self Help Book,3.00,"? 1,571.45","? 4,714.35","? 1,166.08",South,Karnataka,Net Banking
+ORD00191,04-03-2025,CUST0137,Customer_0231,Books,Self Help Book,3.00,? 548.87,"? 1,646.61",? 182.76,West,Gujarat,UPI
+ORD00192,23-03-2025,CUST0168,Customer_0296,Home & Kitchen,Bedsheet,5.00,"? 2,654.27","? 13,271.35","? 1,615.97",North,Rajasthan,Credit Card
+ORD00193,12-09-2025,CUST0012,Customer_0047,Beauty,Perfume,4.00,"? 2,215.83","? 8,863.32","? 1,694.65",North,Uttar Pradesh,Credit Card
+ORD00194,11-09-2025,CUST0241,Customer_0147,Clothing,Sneakers,1.00,? 461.73,? 461.73,? 37.77,East,West Bengal,UPI
+ORD00195,26-07-2025,CUST0188,Customer_0024,Beauty,Perfume,3.00,"? 1,859.64","? 5,578.92",? 509.10,South,Karnataka,Net Banking
+ORD00196,17-07-2025,CUST0259,Customer_0231,Clothing,Sneakers,5.00,"? 1,223.53","? 6,117.65",? 865.88,East,West Bengal,Net Banking
+ORD00197,21-07-2025,CUST0192,Customer_0174,Books,Children Book,2.00,"? 1,758.89","? 3,517.78","? 1,008.09",West,Gujarat,Credit Card
+ORD00198,20-01-2025,CUST0071,Customer_0171,Clothing,Kurta,5.00,? 428.82,"? 2,144.10",? 416.50,North,Rajasthan,Credit Card
+ORD00199,13-06-2025,CUST0084,Customer_0202,Books,Children Book,3.00,"? 1,686.76","? 5,060.28","? 1,227.88",South,Karnataka,Debit Card
+ORD00200,30-09-2025,CUST0251,Customer_0289,Books,Data Science Book,5.00,"? 1,516.68","? 7,583.40","? 1,398.96",East,West Bengal,UPI
+ORD00201,26-10-2025,CUST0158,Customer_0014,Home & Kitchen,Water Bottle,1.00,"? 5,884.41","? 5,884.41","? 1,085.14",East,West Bengal,Net Banking
+ORD00202,29-03-2025,CUST0269,Customer_0195,Books,Self Help Book,1.00,"? 1,112.81","? 1,112.81",? 290.18,North,Delhi,Credit Card
+ORD00203,10-06-2025,CUST0215,Customer_0078,Electronics,Power Bank,2.00,? 717.78,"? 1,435.56",? 332.92,West,Gujarat,Cash on Delivery
+ORD00204,23-09-2025,CUST0107,Customer_0288,Books,Data Science Book,1.00,"? 1,314.53","? 1,314.53",? 393.82,North,Uttar Pradesh,Cash on Delivery
+ORD00205,24-08-2025,CUST0273,Customer_0176,Books,Children Book,3.00,"? 1,728.53","? 5,185.59",? 819.03,North,Rajasthan,Debit Card
+ORD00206,23-05-2025,CUST0286,Customer_0153,Books,Self Help Book,2.00,"? 1,729.61","? 3,459.22",? 993.23,North,Uttar Pradesh,Debit Card
+ORD00207,28-06-2025,CUST0287,Customer_0141,Home & Kitchen,Bedsheet,4.00,"? 2,072.98","? 8,291.92",? 885.68,North,Delhi,Net Banking
+ORD00208,16-03-2025,CUST0149,Customer_0022,Beauty,Moisturizer,3.00,"? 2,393.33","? 7,179.99","? 2,083.41",North,Rajasthan,UPI
+ORD00209,20-04-2025,CUST0104,Customer_0276,Home & Kitchen,Bedsheet,3.00,"? 4,547.20","? 13,641.60","? 3,891.47",North,Uttar Pradesh,Debit Card
+ORD00210,03-05-2025,CUST0125,Customer_0026,Clothing,Sneakers,5.00,"? 2,670.85","? 13,354.25","? 1,731.35",West,Gujarat,Credit Card
+ORD00211,30-08-2025,CUST0052,Customer_0071,Electronics,Wireless Headphones,4.00,"? 4,298.38","? 17,193.52","? 5,023.85",West,Gujarat,Credit Card
+ORD00212,28-05-2025,CUST0165,Customer_0147,Beauty,Face Wash,4.00,"? 1,678.77","? 6,715.08","? 1,878.52",North,Uttar Pradesh,UPI
+ORD00213,20-01-2025,CUST0090,Customer_0214,Books,Self Help Book,5.00,"? 1,368.83","? 6,844.15","? 1,953.75",North,Delhi,UPI
+ORD00214,29-05-2025,CUST0020,Customer_0005,Beauty,Moisturizer,2.00,"? 2,351.03","? 4,702.06",? 963.69,North,Uttar Pradesh,UPI
+ORD00215,06-10-2025,CUST0269,Customer_0253,Home & Kitchen,Mixer Grinder,4.00,"? 5,937.32","? 23,749.28","? 6,346.59",South,Tamil Nadu,Cash on Delivery
+ORD00216,23-08-2025,CUST0132,Customer_0096,Home & Kitchen,Coffee Maker,1.00,"? 2,151.43","? 2,151.43",? 520.77,North,Delhi,Debit Card
+ORD00217,24-11-2025,CUST0208,Customer_0219,Books,Children Book,2.00,"? 1,158.07","? 2,316.14",? 352.39,North,Delhi,Cash on Delivery
+ORD00218,08-05-2025,CUST0004,Customer_0134,Electronics,Power Bank,2.00,"? 5,990.72","? 11,981.44","? 1,579.33",South,Karnataka,Debit Card
+ORD00219,06-01-2025,CUST0134,Customer_0185,Home & Kitchen,Mixer Grinder,5.00,"? 4,406.57","? 22,032.85","? 2,063.76",South,Tamil Nadu,UPI
+ORD00220,15-09-2025,CUST0160,Customer_0061,Beauty,Moisturizer,2.00,"? 1,102.73","? 2,205.46",? 354.77,South,Tamil Nadu,Credit Card
+ORD00221,07-11-2025,CUST0192,Customer_0213,Clothing,Sneakers,4.00,? 790.19,"? 3,160.76",? 887.59,South,Karnataka,Net Banking
+ORD00222,11-02-2025,CUST0270,Customer_0229,Clothing,Sneakers,5.00,"? 3,094.03","? 15,470.15","? 3,632.83",North,Delhi,UPI
+ORD00223,16-09-2025,CUST0104,Customer_0294,Books,Children Book,1.00,"? 1,517.48","? 1,517.48",? 171.43,West,Gujarat,Debit Card
+ORD00224,26-10-2025,CUST0251,Customer_0047,Books,Children Book,1.00,"? 1,272.49","? 1,272.49",? 226.51,North,Uttar Pradesh,UPI
+ORD00225,16-10-2025,CUST0030,Customer_0287,Beauty,Perfume,5.00,"? 1,126.25","? 5,631.25","? 1,283.98",South,Karnataka,Debit Card
+ORD00226,22-04-2025,CUST0297,Customer_0038,Electronics,Wireless Headphones,3.00,"? 9,889.21","? 29,667.63","? 5,138.83",North,Rajasthan,UPI
+ORD00227,30-08-2025,CUST0017,Customer_0147,Books,Cooking Book,1.00,"? 1,777.13","? 1,777.13",? 212.54,West,Maharashtra,Credit Card
+ORD00228,13-07-2025,CUST0193,Customer_0042,Beauty,Hair Dryer,4.00,"? 1,204.06","? 4,816.24",? 526.21,East,West Bengal,Debit Card
+ORD00229,07-03-2025,CUST0115,Customer_0002,Electronics,Wireless Headphones,5.00,"? 5,020.17","? 25,100.85","? 7,411.48",South,Karnataka,Cash on Delivery
+ORD00230,28-04-2025,CUST0127,Customer_0236,Books,Data Science Book,5.00,? 775.81,"? 3,879.05",? 442.70,North,Rajasthan,Credit Card
+ORD00231,09-01-2025,CUST0124,Customer_0106,Electronics,Wireless Headphones,4.00,"? 7,571.62","? 30,286.48","? 3,095.20",West,Maharashtra,UPI
+ORD00232,25-07-2025,CUST0225,Customer_0120,Beauty,Hair Dryer,2.00,"? 1,890.27","? 3,780.54",? 483.15,West,Maharashtra,UPI
+ORD00233,22-10-2025,CUST0164,Customer_0296,Clothing,Sneakers,2.00,"? 2,910.52","? 5,821.04","? 1,455.02",South,Tamil Nadu,Debit Card
+ORD00234,24-09-2025,CUST0114,Customer_0212,Clothing,Hoodie,2.00,"? 3,454.23","? 6,908.46",? 970.87,South,Tamil Nadu,Net Banking
+ORD00235,25-01-2025,CUST0177,Customer_0196,Books,Children Book,4.00,"? 1,067.15","? 4,268.60",? 640.81,South,Karnataka,Cash on Delivery
+ORD00236,03-10-2025,CUST0243,Customer_0124,Beauty,Shampoo,3.00,"? 1,034.68","? 3,104.04",? 453.69,South,Karnataka,Credit Card
+ORD00237,02-08-2025,CUST0286,Customer_0272,Beauty,Shampoo,5.00,"? 1,119.79","? 5,598.95",? 926.36,West,Maharashtra,Debit Card
+ORD00238,09-07-2025,CUST0048,Customer_0275,Clothing,Jeans,1.00,"? 3,251.12","? 3,251.12",? 296.95,East,West Bengal,Cash on Delivery
+ORD00239,28-10-2025,CUST0287,Customer_0112,Books,Cooking Book,1.00,? 460.47,? 460.47,? 58.00,West,Maharashtra,Debit Card
+ORD00240,02-03-2025,CUST0246,Customer_0125,Home & Kitchen,Water Bottle,2.00,"? 5,638.67","? 11,277.34","? 2,648.25",West,Maharashtra,Cash on Delivery
+ORD00241,01-10-2025,CUST0184,Customer_0158,Clothing,Hoodie,3.00,"? 1,518.12","? 4,554.36",? 724.70,East,West Bengal,Cash on Delivery
+ORD00242,13-06-2025,CUST0105,Customer_0190,Beauty,Moisturizer,4.00,"? 1,939.83","? 7,759.32","? 1,327.35",West,Gujarat,Net Banking
+ORD00243,27-10-2025,CUST0297,Customer_0214,Clothing,Hoodie,1.00,"? 1,134.48","? 1,134.48",? 128.80,South,Karnataka,Debit Card
+ORD00244,13-09-2025,CUST0282,Customer_0173,Clothing,Hoodie,5.00,"? 2,966.76","? 14,833.80","? 3,677.88",North,Rajasthan,Cash on Delivery
+ORD00245,30-06-2025,CUST0087,Customer_0072,Beauty,Hair Dryer,2.00,"? 1,872.01","? 3,744.02",? 701.74,North,Uttar Pradesh,Net Banking
+ORD00246,09-12-2025,CUST0025,Customer_0004,Electronics,Power Bank,1.00,"? 11,369.66","? 11,369.66","? 1,253.48",West,Maharashtra,Credit Card
+ORD00247,22-08-2025,CUST0192,Customer_0031,Electronics,USB Cable,1.00,"? 3,015.28","? 3,015.28",? 664.27,South,Karnataka,Net Banking
+ORD00248,10-10-2025,CUST0211,Customer_0007,Beauty,Face Wash,1.00,? 165.54,? 165.54,? 32.52,North,Uttar Pradesh,Debit Card
+ORD00249,24-12-2025,CUST0221,Customer_0092,Books,Novel,1.00,? 978.66,? 978.66,? 275.95,South,Tamil Nadu,Net Banking
+ORD00250,10-05-2025,CUST0182,Customer_0137,Clothing,Kurta,2.00,"? 2,283.30","? 4,566.60",? 444.71,North,Delhi,Cash on Delivery
+ORD00251,11-02-2025,CUST0017,Customer_0048,Beauty,Perfume,2.00,? 854.94,"? 1,709.88",? 279.46,North,Delhi,Net Banking
+ORD00252,12-02-2025,CUST0256,Customer_0223,Beauty,Moisturizer,1.00,"? 1,801.69","? 1,801.69",? 368.42,West,Maharashtra,UPI
+ORD00253,21-12-2025,CUST0291,Customer_0244,Books,Data Science Book,2.00,? 498.84,? 997.68,? 90.03,West,Maharashtra,UPI
+ORD00254,11-06-2025,CUST0009,Customer_0107,Home & Kitchen,Water Bottle,2.00,"? 5,590.41","? 11,180.82","? 1,249.15",West,Maharashtra,Cash on Delivery
+ORD00255,18-10-2025,CUST0200,Customer_0277,Electronics,Bluetooth Speaker,2.00,"? 6,985.52","? 13,971.04","? 2,297.48",South,Tamil Nadu,Credit Card
+ORD00256,29-04-2025,CUST0039,Customer_0175,Electronics,USB Cable,1.00,"? 1,623.39","? 1,623.39",? 404.52,East,West Bengal,Net Banking
+ORD00257,19-08-2025,CUST0252,Customer_0117,Beauty,Moisturizer,1.00,"? 1,640.19","? 1,640.19",? 330.77,East,West Bengal,Cash on Delivery
+ORD00258,13-02-2025,CUST0152,Customer_0127,Beauty,Face Wash,5.00,"? 1,702.58","? 8,512.90",? 834.68,South,Karnataka,Credit Card
+ORD00259,24-02-2025,CUST0047,Customer_0003,Beauty,Moisturizer,4.00,? 894.19,"? 3,576.76",? 636.10,South,Karnataka,Debit Card
+ORD00260,18-08-2025,CUST0286,Customer_0285,Electronics,USB Cable,1.00,"? 2,655.01","? 2,655.01",? 450.74,South,Karnataka,UPI
+ORD00261,03-11-2025,CUST0167,Customer_0198,Electronics,Wireless Headphones,5.00,"? 1,570.24","? 7,851.20","? 1,132.19",East,West Bengal,Cash on Delivery
+ORD00262,17-12-2025,CUST0195,Customer_0087,Electronics,Smart Watch,5.00,"? 6,492.70","? 32,463.50","? 4,517.69",North,Delhi,Debit Card
+ORD00263,22-05-2025,CUST0216,Customer_0154,Beauty,Perfume,1.00,? 542.94,? 542.94,? 136.92,South,Karnataka,Debit Card
+ORD00264,11-04-2025,CUST0235,Customer_0055,Home & Kitchen,Mixer Grinder,4.00,"? 3,664.39","? 14,657.56","? 2,155.02",North,Delhi,Cash on Delivery
+ORD00265,09-08-2025,CUST0070,Customer_0154,Home & Kitchen,Bedsheet,3.00,"? 2,781.28","? 8,343.84","? 1,774.79",North,Rajasthan,Credit Card
+ORD00266,13-06-2025,CUST0150,Customer_0252,Beauty,Hair Dryer,2.00,"? 2,416.75","? 4,833.50","? 1,218.21",East,West Bengal,Debit Card
+ORD00267,16-10-2025,CUST0103,Customer_0280,Beauty,Shampoo,4.00,"? 1,007.79","? 4,031.16",? 927.07,South,Tamil Nadu,Net Banking
+ORD00268,30-05-2025,CUST0036,Customer_0210,Electronics,Power Bank,2.00,"? 5,542.23","? 11,084.46","? 1,226.16",North,Uttar Pradesh,Debit Card
+ORD00269,13-07-2025,CUST0038,Customer_0230,Clothing,Sneakers,2.00,"? 2,588.76","? 5,177.52",? 960.08,South,Tamil Nadu,Cash on Delivery
+ORD00270,04-07-2025,CUST0275,Customer_0044,Books,Novel,5.00,? 210.66,"? 1,053.30",? 262.45,North,Rajasthan,Debit Card
+ORD00271,13-12-2025,CUST0205,Customer_0170,Clothing,Kurta,5.00,"? 3,447.55","? 17,237.75","? 1,780.79",West,Maharashtra,UPI
+ORD00272,13-10-2025,CUST0298,Customer_0295,Home & Kitchen,Mixer Grinder,5.00,"? 4,544.40","? 22,722.00","? 4,046.14",North,Delhi,Cash on Delivery
+ORD00273,05-09-2025,CUST0054,Customer_0152,Beauty,Perfume,3.00,"? 2,494.60","? 7,483.80","? 2,114.33",South,Karnataka,UPI
+ORD00274,22-08-2025,CUST0106,Customer_0267,Electronics,Power Bank,3.00,"? 4,086.74","? 12,260.22","? 1,920.27",South,Karnataka,UPI
+ORD00275,23-01-2025,CUST0059,Customer_0012,Beauty,Moisturizer,3.00,? 307.86,? 923.58,? 205.55,North,Uttar Pradesh,Credit Card
+ORD00276,14-10-2025,CUST0219,Customer_0237,Clothing,Jeans,5.00,? 812.43,"? 4,062.15","? 1,037.90",South,Karnataka,Credit Card
+ORD00277,11-11-2025,CUST0102,Customer_0231,Clothing,Sneakers,4.00,? 393.42,"? 1,573.68",? 274.61,North,Rajasthan,UPI
+ORD00278,02-02-2025,CUST0296,Customer_0053,Clothing,Sneakers,3.00,"? 2,707.44","? 8,122.32",? 983.87,North,Delhi,Debit Card
+ORD00279,08-09-2025,CUST0271,Customer_0161,Clothing,Sneakers,1.00,"? 1,139.53","? 1,139.53",? 188.59,North,Uttar Pradesh,Cash on Delivery
+ORD00280,23-08-2025,CUST0089,Customer_0153,Books,Children Book,3.00,? 730.78,"? 2,192.34",? 460.03,West,Gujarat,Credit Card
+ORD00281,04-04-2025,CUST0192,Customer_0073,Home & Kitchen,Water Bottle,2.00,"? 2,005.94","? 4,011.88",? 663.81,West,Gujarat,Net Banking
+ORD00282,22-11-2025,CUST0276,Customer_0089,Clothing,Sneakers,4.00,? 894.41,"? 3,577.64",? 417.55,North,Rajasthan,Debit Card
+ORD00283,14-11-2025,CUST0028,Customer_0184,Clothing,T-Shirt,3.00,"? 2,994.35","? 8,983.05","? 1,676.36",South,Karnataka,Credit Card
+ORD00284,01-08-2025,CUST0228,Customer_0251,Beauty,Shampoo,4.00,"? 1,759.04","? 7,036.16",? 690.86,North,Uttar Pradesh,UPI
+ORD00285,03-10-2025,CUST0148,Customer_0087,Clothing,Kurta,1.00,"? 1,179.53","? 1,179.53",? 241.15,South,Tamil Nadu,Cash on Delivery
+ORD00286,06-10-2025,CUST0188,Customer_0278,Books,Novel,5.00,? 338.44,"? 1,692.20",? 418.31,West,Gujarat,Cash on Delivery
+ORD00287,01-12-2025,CUST0127,Customer_0153,Books,Novel,4.00,? 318.99,"? 1,275.96",? 228.32,North,Delhi,Debit Card
+ORD00288,02-05-2025,CUST0108,Customer_0180,Electronics,USB Cable,1.00,"? 9,419.76","? 9,419.76","? 2,064.90",North,Uttar Pradesh,Credit Card
+ORD00289,31-01-2025,CUST0292,Customer_0180,Books,Children Book,2.00,"? 1,492.32","? 2,984.64",? 423.34,South,Karnataka,Net Banking
+ORD00290,17-05-2025,CUST0264,Customer_0049,Clothing,Jeans,3.00,"? 1,225.87","? 3,677.61","? 1,073.16",East,West Bengal,Cash on Delivery
+ORD00291,09-03-2025,CUST0128,Customer_0075,Electronics,Bluetooth Speaker,2.00,"? 8,566.41","? 17,132.82","? 4,493.36",South,Tamil Nadu,Cash on Delivery
+ORD00292,18-11-2025,CUST0213,Customer_0193,Beauty,Perfume,5.00,"? 1,636.14","? 8,180.70",? 790.37,South,Karnataka,UPI
+ORD00293,07-09-2025,CUST0168,Customer_0298,Beauty,Face Wash,3.00,"? 1,218.53","? 3,655.59",? 991.25,South,Tamil Nadu,UPI
+ORD00294,23-07-2025,CUST0112,Customer_0220,Beauty,Shampoo,1.00,"? 2,019.84","? 2,019.84",? 381.42,East,West Bengal,Debit Card
+ORD00295,17-10-2025,CUST0249,Customer_0176,Home & Kitchen,Coffee Maker,5.00,"? 3,573.12","? 17,865.60","? 1,609.82",East,West Bengal,Cash on Delivery
+ORD00296,01-01-2025,CUST0220,Customer_0104,Electronics,Smart Watch,2.00,"? 5,574.79","? 11,149.58","? 3,055.79",West,Gujarat,Debit Card
+ORD00297,09-05-2025,CUST0043,Customer_0191,Clothing,Jeans,1.00,"? 2,394.68","? 2,394.68",? 218.86,South,Tamil Nadu,Debit Card
+ORD00298,01-01-2025,CUST0110,Customer_0245,Clothing,T-Shirt,1.00,"? 2,551.83","? 2,551.83",? 278.64,North,Rajasthan,Credit Card
+ORD00299,25-06-2025,CUST0062,Customer_0217,Books,Self Help Book,1.00,? 163.30,? 163.30,? 30.23,North,Uttar Pradesh,Credit Card
+ORD00300,08-07-2025,CUST0154,Customer_0071,Beauty,Perfume,1.00,? 392.52,? 392.52,? 98.19,West,Gujarat,Credit Card
+ORD00301,09-11-2025,CUST0085,Customer_0226,Clothing,Hoodie,5.00,"? 2,102.53","? 10,512.65","? 2,511.84",West,Gujarat,Credit Card
+ORD00302,21-02-2025,CUST0072,Customer_0064,Beauty,Hair Dryer,2.00,? 353.72,? 707.44,? 170.21,North,Uttar Pradesh,Debit Card
+ORD00303,27-11-2025,CUST0044,Customer_0128,Beauty,Hair Dryer,2.00,? 732.30,"? 1,464.60",? 310.82,East,West Bengal,Net Banking
+ORD00304,07-11-2025,CUST0261,Customer_0097,Home & Kitchen,Cookware Set,3.00,"? 1,431.31","? 4,293.93",? 622.70,West,Maharashtra,UPI
+ORD00305,13-09-2025,CUST0037,Customer_0271,Clothing,T-Shirt,4.00,? 660.78,"? 2,643.12",? 785.31,North,Uttar Pradesh,Debit Card
+ORD00306,07-10-2025,CUST0089,Customer_0242,Clothing,T-Shirt,5.00,"? 1,646.76","? 8,233.80",? 688.94,North,Rajasthan,UPI
+ORD00307,31-01-2025,CUST0204,Customer_0260,Electronics,Bluetooth Speaker,2.00,? 958.01,"? 1,916.02",? 418.24,South,Tamil Nadu,Net Banking
+ORD00308,02-10-2025,CUST0276,Customer_0079,Beauty,Moisturizer,4.00,? 343.71,"? 1,374.84",? 135.27,North,Rajasthan,UPI
+ORD00309,20-07-2025,CUST0034,Customer_0159,Books,Cooking Book,2.00,"? 1,035.04","? 2,070.08",? 498.04,North,Delhi,Credit Card
+ORD00310,01-03-2025,CUST0233,Customer_0029,Electronics,Bluetooth Speaker,1.00,"? 11,133.22","? 11,133.22","? 2,522.09",North,Delhi,Credit Card
+ORD00311,25-03-2025,CUST0255,Customer_0178,Electronics,USB Cable,2.00,"? 8,567.25","? 17,134.50","? 3,320.48",West,Maharashtra,Debit Card
+ORD00312,18-05-2025,CUST0061,Customer_0016,Clothing,Hoodie,2.00,"? 2,699.28","? 5,398.56","? 1,390.47",East,West Bengal,Debit Card
+ORD00313,23-10-2025,CUST0040,Customer_0255,Books,Cooking Book,3.00,"? 1,325.33","? 3,975.99",? 764.87,West,Gujarat,UPI
+ORD00314,22-02-2025,CUST0294,Customer_0060,Beauty,Shampoo,3.00,? 519.68,"? 1,559.04",? 378.80,South,Karnataka,UPI
+ORD00315,06-07-2025,CUST0197,Customer_0077,Electronics,Smart Watch,2.00,"? 1,028.79","? 2,057.58",? 586.11,West,Maharashtra,UPI
+ORD00316,02-08-2025,CUST0164,Customer_0139,Books,Novel,2.00,? 680.97,"? 1,361.94",? 280.20,North,Rajasthan,UPI
+ORD00317,22-09-2025,CUST0024,Customer_0206,Books,Novel,2.00,? 518.26,"? 1,036.52",? 282.91,West,Maharashtra,Debit Card
+ORD00318,05-01-2025,CUST0189,Customer_0103,Home & Kitchen,Bedsheet,1.00,"? 3,430.28","? 3,430.28",? 699.91,East,West Bengal,Debit Card
+ORD00319,10-09-2025,CUST0101,Customer_0280,Books,Self Help Book,4.00,? 757.65,"? 3,030.60",? 342.84,North,Delhi,Cash on Delivery
+ORD00320,22-12-2025,CUST0005,Customer_0172,Electronics,Wireless Headphones,5.00,"? 4,483.87","? 22,419.35","? 5,536.78",North,Delhi,Cash on Delivery
+ORD00321,02-05-2025,CUST0215,Customer_0252,Home & Kitchen,Coffee Maker,2.00,"? 3,296.43","? 6,592.86","? 1,938.06",West,Gujarat,Credit Card
+ORD00322,24-09-2025,CUST0212,Customer_0191,Home & Kitchen,Cookware Set,1.00,"? 5,547.33","? 5,547.33","? 1,633.15",West,Gujarat,UPI
+ORD00323,21-07-2025,CUST0039,Customer_0291,Books,Novel,5.00,? 370.30,"? 1,851.50",? 325.30,West,Gujarat,Credit Card
+ORD00324,21-07-2025,CUST0168,Customer_0163,Clothing,Kurta,3.00,"? 3,022.92","? 9,068.76","? 1,268.09",South,Tamil Nadu,UPI
+ORD00325,24-02-2025,CUST0085,Customer_0231,Clothing,Kurta,5.00,? 648.71,"? 3,243.55",? 483.57,South,Karnataka,UPI
+ORD00326,26-08-2025,CUST0136,Customer_0062,Books,Novel,2.00,? 895.66,"? 1,791.32",? 205.42,East,West Bengal,Debit Card
+ORD00327,17-06-2025,CUST0076,Customer_0047,Books,Self Help Book,2.00,"? 1,529.28","? 3,058.56",? 896.30,West,Maharashtra,Cash on Delivery
+ORD00328,31-03-2025,CUST0016,Customer_0208,Books,Cooking Book,3.00,? 579.28,"? 1,737.84",? 351.58,West,Maharashtra,Net Banking
+ORD00329,13-03-2025,CUST0063,Customer_0007,Clothing,T-Shirt,4.00,? 626.10,"? 2,504.40",? 657.86,West,Gujarat,Credit Card
+ORD00330,19-11-2025,CUST0044,Customer_0299,Clothing,Sneakers,4.00,"? 1,491.17","? 5,964.68",? 816.81,North,Delhi,UPI
+ORD00331,16-08-2025,CUST0066,Customer_0048,Electronics,Bluetooth Speaker,2.00,"? 10,878.70","? 21,757.40","? 2,327.09",West,Gujarat,Cash on Delivery
+ORD00332,22-07-2025,CUST0255,Customer_0016,Electronics,Power Bank,5.00,"? 5,481.30","? 27,406.50","? 6,311.90",South,Karnataka,Credit Card
+ORD00333,17-08-2025,CUST0077,Customer_0018,Home & Kitchen,Water Bottle,2.00,"? 1,831.15","? 3,662.30",? 791.86,North,Delhi,Credit Card
+ORD00334,03-09-2025,CUST0032,Customer_0045,Home & Kitchen,Bedsheet,4.00,"? 5,325.98","? 21,303.92","? 3,499.45",North,Uttar Pradesh,Cash on Delivery
+ORD00335,15-07-2025,CUST0184,Customer_0246,Clothing,Sneakers,5.00,"? 2,843.51","? 14,217.55","? 3,581.62",North,Delhi,Debit Card
+ORD00336,14-01-2025,CUST0164,Customer_0113,Books,Novel,4.00,? 596.22,"? 2,384.88",? 660.77,East,West Bengal,Debit Card
+ORD00337,27-10-2025,CUST0120,Customer_0082,Electronics,Wireless Headphones,5.00,"? 4,610.48","? 23,052.40","? 3,101.21",North,Uttar Pradesh,Credit Card
+ORD00338,18-07-2025,CUST0182,Customer_0089,Home & Kitchen,Mixer Grinder,2.00,"? 3,560.23","? 7,120.46",? 940.19,West,Maharashtra,Debit Card
+ORD00339,16-10-2025,CUST0073,Customer_0289,Home & Kitchen,Mixer Grinder,3.00,"? 5,698.46","? 17,095.38","? 4,514.43",West,Maharashtra,Cash on Delivery
+ORD00340,16-02-2025,CUST0029,Customer_0120,Books,Children Book,2.00,? 959.22,"? 1,918.44",? 245.83,South,Tamil Nadu,Net Banking
+ORD00341,14-04-2025,CUST0067,Customer_0175,Beauty,Shampoo,3.00,"? 2,307.06","? 6,921.18","? 1,952.68",West,Maharashtra,Debit Card
+ORD00342,14-03-2025,CUST0057,Customer_0270,Electronics,Bluetooth Speaker,2.00,"? 7,246.01","? 14,492.02","? 4,221.86",West,Maharashtra,Debit Card
+ORD00343,11-03-2025,CUST0081,Customer_0224,Beauty,Perfume,3.00,? 859.15,"? 2,577.45",? 574.31,West,Gujarat,Credit Card
+ORD00344,31-03-2025,CUST0194,Customer_0158,Books,Data Science Book,2.00,"? 1,248.13","? 2,496.26",? 269.64,East,West Bengal,UPI
+ORD00345,05-11-2025,CUST0163,Customer_0114,Books,Children Book,5.00,? 203.43,"? 1,017.15",? 104.67,North,Rajasthan,Cash on Delivery
+ORD00346,13-06-2025,CUST0086,Customer_0046,Clothing,Hoodie,1.00,"? 1,061.59","? 1,061.59",? 189.24,East,West Bengal,Debit Card
+ORD00347,25-02-2025,CUST0001,Customer_0025,Clothing,Kurta,1.00,"? 1,421.54","? 1,421.54",? 250.77,North,Delhi,Cash on Delivery
+ORD00348,29-06-2025,CUST0280,Customer_0193,Clothing,T-Shirt,4.00,"? 3,121.67","? 12,486.68","? 3,275.72",North,Rajasthan,Net Banking
+ORD00349,18-01-2025,CUST0151,Customer_0011,Clothing,Hoodie,4.00,? 535.87,"? 2,143.48",? 294.62,South,Karnataka,UPI
+ORD00350,24-03-2025,CUST0039,Customer_0281,Electronics,Wireless Headphones,2.00,"? 10,711.21","? 21,422.42","? 3,306.53",East,West Bengal,Net Banking
+ORD00351,26-03-2025,CUST0223,Customer_0081,Beauty,Face Wash,4.00,"? 2,364.74","? 9,458.96",? 967.43,West,Maharashtra,Credit Card
+ORD00352,04-10-2025,CUST0136,Customer_0145,Clothing,Hoodie,5.00,"? 2,610.52","? 13,052.60","? 1,726.35",North,Rajasthan,UPI
+ORD00353,02-01-2025,CUST0219,Customer_0045,Beauty,Moisturizer,2.00,? 278.09,? 556.18,? 145.31,North,Uttar Pradesh,Net Banking
+ORD00354,29-03-2025,CUST0150,Customer_0042,Beauty,Perfume,1.00,? 210.48,? 210.48,? 55.91,North,Delhi,Debit Card
+ORD00355,16-05-2025,CUST0047,Customer_0279,Beauty,Perfume,4.00,"? 2,252.96","? 9,011.84","? 1,087.49",North,Uttar Pradesh,Cash on Delivery
+ORD00356,14-08-2025,CUST0239,Customer_0135,Home & Kitchen,Mixer Grinder,4.00,? 506.55,"? 2,026.20",? 535.24,South,Karnataka,Net Banking
+ORD00357,26-06-2025,CUST0278,Customer_0212,Electronics,USB Cable,1.00,"? 1,485.63","? 1,485.63",? 193.21,South,Karnataka,UPI
+ORD00358,01-09-2025,CUST0294,Customer_0121,Beauty,Perfume,5.00,"? 1,764.61","? 8,823.05","? 1,285.94",North,Rajasthan,Cash on Delivery
+ORD00359,18-08-2025,CUST0089,Customer_0086,Electronics,Smart Watch,1.00,"? 11,416.43","? 11,416.43","? 2,943.86",South,Karnataka,Credit Card
+ORD00360,11-08-2025,CUST0104,Customer_0076,Electronics,USB Cable,1.00,"? 11,865.22","? 11,865.22","? 1,622.39",North,Rajasthan,UPI
+ORD00361,16-06-2025,CUST0142,Customer_0267,Electronics,Power Bank,5.00,"? 5,069.58","? 25,347.90","? 7,142.42",North,Rajasthan,UPI
+ORD00362,17-03-2025,CUST0291,Customer_0299,Books,Novel,1.00,? 833.83,? 833.83,? 236.38,North,Rajasthan,Net Banking
+ORD00363,30-07-2025,CUST0136,Customer_0197,Electronics,Power Bank,5.00,"? 10,621.56","? 53,107.80","? 10,931.98",South,Tamil Nadu,Cash on Delivery
+ORD00364,13-11-2025,CUST0206,Customer_0020,Electronics,Power Bank,3.00,"? 5,134.20","? 15,402.60","? 4,246.59",South,Karnataka,Debit Card
+ORD00365,10-07-2025,CUST0011,Customer_0173,Clothing,Hoodie,4.00,"? 3,246.67","? 12,986.68","? 1,927.34",West,Maharashtra,Cash on Delivery
+ORD00366,15-08-2025,CUST0165,Customer_0138,Electronics,Power Bank,2.00,"? 3,955.53","? 7,911.06","? 1,685.81",North,Delhi,UPI
+ORD00367,28-07-2025,CUST0249,Customer_0265,Clothing,Hoodie,2.00,"? 3,222.98","? 6,445.96","? 1,679.97",North,Uttar Pradesh,Net Banking
+ORD00368,26-07-2025,CUST0070,Customer_0269,Clothing,Sneakers,3.00,"? 2,570.62","? 7,711.86",? 666.06,West,Gujarat,Credit Card
+ORD00369,26-01-2025,CUST0185,Customer_0102,Clothing,Hoodie,2.00,? 405.83,? 811.66,? 130.71,West,Maharashtra,Cash on Delivery
+ORD00370,04-05-2025,CUST0191,Customer_0251,Books,Children Book,1.00,"? 1,273.94","? 1,273.94",? 226.94,North,Rajasthan,Cash on Delivery
+ORD00371,13-05-2025,CUST0047,Customer_0146,Books,Novel,3.00,? 419.80,"? 1,259.40",? 207.86,East,West Bengal,Credit Card
+ORD00372,13-12-2025,CUST0106,Customer_0138,Books,Cooking Book,2.00,"? 1,218.18","? 2,436.36",? 470.03,North,Delhi,UPI
+ORD00373,05-01-2025,CUST0115,Customer_0130,Beauty,Hair Dryer,2.00,"? 1,562.68","? 3,125.36",? 803.59,South,Karnataka,Debit Card
+ORD00374,24-08-2025,CUST0130,Customer_0112,Home & Kitchen,Cookware Set,4.00,"? 5,146.62","? 20,586.48","? 3,015.34",North,Rajasthan,Net Banking
+ORD00375,19-09-2025,CUST0192,Customer_0288,Books,Children Book,5.00,? 318.81,"? 1,594.05",? 341.11,North,Rajasthan,Debit Card
+ORD00376,22-05-2025,CUST0167,Customer_0142,Electronics,Bluetooth Speaker,1.00,"? 4,367.26","? 4,367.26",? 979.78,North,Uttar Pradesh,Debit Card
+ORD00377,30-01-2025,CUST0207,Customer_0164,Clothing,Jeans,5.00,"? 2,749.52","? 13,747.60","? 3,281.31",South,Karnataka,Cash on Delivery
+ORD00378,19-01-2025,CUST0299,Customer_0293,Home & Kitchen,Mixer Grinder,4.00,"? 2,576.44","? 10,305.76","? 1,602.51",South,Tamil Nadu,Credit Card
+ORD00379,29-03-2025,CUST0286,Customer_0093,Books,Data Science Book,3.00,? 987.07,"? 2,961.21",? 300.48,North,Uttar Pradesh,Credit Card
+ORD00380,24-04-2025,CUST0182,Customer_0115,Home & Kitchen,Bedsheet,3.00,"? 4,013.00","? 12,039.00","? 2,076.78",South,Karnataka,Debit Card
+ORD00381,02-03-2025,CUST0241,Customer_0028,Home & Kitchen,Water Bottle,5.00,"? 1,940.79","? 9,703.95","? 2,015.21",South,Tamil Nadu,Net Banking
+ORD00382,15-12-2025,CUST0196,Customer_0272,Electronics,Bluetooth Speaker,2.00,"? 6,255.49","? 12,510.98","? 2,137.92",North,Uttar Pradesh,Credit Card
+ORD00383,19-10-2025,CUST0235,Customer_0074,Clothing,Hoodie,3.00,"? 1,609.41","? 4,828.23","? 1,302.30",North,Delhi,Credit Card
+ORD00384,01-04-2025,CUST0161,Customer_0030,Electronics,Wireless Headphones,3.00,"? 7,756.88","? 23,270.64","? 4,175.96",North,Uttar Pradesh,Credit Card
+ORD00385,15-02-2025,CUST0067,Customer_0223,Clothing,Kurta,4.00,"? 2,812.67","? 11,250.68","? 1,898.51",South,Karnataka,Cash on Delivery
+ORD00386,11-07-2025,CUST0008,Customer_0165,Beauty,Hair Dryer,1.00,"? 1,404.39","? 1,404.39",? 171.23,West,Maharashtra,UPI
+ORD00387,22-02-2025,CUST0197,Customer_0258,Clothing,Sneakers,3.00,"? 1,298.70","? 3,896.10",? 574.07,North,Delhi,UPI
+ORD00388,24-09-2025,CUST0269,Customer_0173,Electronics,Power Bank,3.00,"? 5,743.15","? 17,229.45","? 4,744.20",South,Tamil Nadu,Credit Card
+ORD00389,26-03-2025,CUST0207,Customer_0010,Home & Kitchen,Mixer Grinder,3.00,"? 4,563.16","? 13,689.48","? 1,770.74",North,Uttar Pradesh,Credit Card
+ORD00390,05-03-2025,CUST0188,Customer_0020,Clothing,Kurta,5.00,"? 1,914.83","? 9,574.15","? 2,612.21",West,Maharashtra,Debit Card
+ORD00391,05-12-2025,CUST0056,Customer_0011,Books,Novel,5.00,"? 1,791.22","? 8,956.10","? 2,075.53",West,Maharashtra,Cash on Delivery
+ORD00392,31-08-2025,CUST0079,Customer_0106,Beauty,Face Wash,1.00,"? 1,436.11","? 1,436.11",? 210.02,North,Rajasthan,UPI
+ORD00393,12-03-2025,CUST0215,Customer_0054,Books,Children Book,5.00,"? 1,149.30","? 5,746.50","? 1,368.41",South,Tamil Nadu,UPI
+ORD00394,08-11-2025,CUST0103,Customer_0135,Home & Kitchen,Water Bottle,1.00,"? 3,112.00","? 3,112.00",? 915.20,West,Gujarat,Debit Card
+ORD00395,12-09-2025,CUST0107,Customer_0247,Beauty,Moisturizer,2.00,? 242.60,? 485.20,? 63.85,South,Tamil Nadu,UPI
+ORD00396,18-03-2025,CUST0047,Customer_0262,Electronics,Wireless Headphones,5.00,"? 8,193.75","? 40,968.75","? 9,799.07",West,Gujarat,UPI
+ORD00397,01-06-2025,CUST0136,Customer_0238,Home & Kitchen,Coffee Maker,4.00,"? 5,934.83","? 23,739.32","? 2,420.41",North,Delhi,Credit Card
+ORD00398,10-06-2025,CUST0219,Customer_0060,Electronics,Wireless Headphones,3.00,"? 9,718.36","? 29,155.08","? 7,792.40",South,Tamil Nadu,UPI
+ORD00399,13-08-2025,CUST0138,Customer_0048,Electronics,Bluetooth Speaker,2.00,"? 4,279.60","? 8,559.20","? 2,219.33",South,Karnataka,Credit Card
+ORD00400,20-05-2025,CUST0198,Customer_0245,Electronics,Power Bank,4.00,"? 11,566.56","? 46,266.24","? 10,305.63",North,Rajasthan,Credit Card
+ORD00401,23-03-2025,CUST0054,Customer_0214,Electronics,USB Cable,1.00,"? 11,788.05","? 11,788.05","? 2,194.80",South,Karnataka,Net Banking
+ORD00402,03-07-2025,CUST0015,Customer_0067,Beauty,Perfume,5.00,"? 1,042.41","? 5,212.05","? 1,472.34",South,Karnataka,UPI
+ORD00403,02-12-2025,CUST0161,Customer_0007,Beauty,Hair Dryer,1.00,? 298.84,? 298.84,? 74.37,North,Uttar Pradesh,Net Banking
+ORD00404,19-12-2025,CUST0049,Customer_0222,Books,Self Help Book,3.00,"? 1,006.51","? 3,019.53",? 561.71,North,Delhi,Cash on Delivery
+ORD00405,22-03-2025,CUST0259,Customer_0241,Clothing,Kurta,1.00,"? 2,358.88","? 2,358.88",? 639.90,West,Maharashtra,UPI
+ORD00406,23-05-2025,CUST0026,Customer_0260,Beauty,Shampoo,2.00,? 927.60,"? 1,855.20",? 373.10,East,West Bengal,Cash on Delivery
+ORD00407,21-10-2025,CUST0230,Customer_0046,Beauty,Perfume,1.00,"? 1,228.87","? 1,228.87",? 219.18,North,Delhi,UPI
+ORD00408,19-01-2025,CUST0286,Customer_0282,Beauty,Face Wash,1.00,"? 1,098.08","? 1,098.08",? 287.37,West,Maharashtra,Net Banking
+ORD00409,02-12-2025,CUST0234,Customer_0175,Books,Data Science Book,5.00,"? 1,077.85","? 5,389.25","? 1,409.66",South,Tamil Nadu,Credit Card
+ORD00410,04-11-2025,CUST0243,Customer_0187,Beauty,Perfume,5.00,"? 1,953.43","? 9,767.15","? 1,026.38",East,West Bengal,Credit Card
+ORD00411,30-05-2025,CUST0281,Customer_0268,Electronics,Bluetooth Speaker,3.00,"? 10,043.66","? 30,130.98","? 7,064.54",East,West Bengal,UPI
+ORD00412,29-07-2025,CUST0055,Customer_0131,Clothing,Sneakers,2.00,"? 2,929.88","? 5,859.76",? 721.35,North,Uttar Pradesh,UPI
+ORD00413,08-04-2025,CUST0174,Customer_0056,Beauty,Perfume,4.00,"? 2,087.70","? 8,350.80",? 753.49,North,Delhi,Net Banking
+ORD00414,16-09-2025,CUST0069,Customer_0256,Electronics,Wireless Headphones,4.00,"? 8,072.25","? 32,289.00","? 6,350.61",North,Uttar Pradesh,UPI
+ORD00415,18-09-2025,CUST0091,Customer_0297,Books,Self Help Book,5.00,? 946.84,"? 4,734.20","? 1,139.56",North,Rajasthan,Credit Card
+ORD00416,14-06-2025,CUST0259,Customer_0197,Electronics,Power Bank,5.00,"? 7,470.85","? 37,354.25","? 11,037.81",North,Rajasthan,Credit Card
+ORD00417,20-08-2025,CUST0069,Customer_0071,Home & Kitchen,Cookware Set,3.00,"? 5,830.33","? 17,490.99","? 3,717.80",North,Rajasthan,Net Banking
+ORD00418,13-04-2025,CUST0108,Customer_0149,Home & Kitchen,Bedsheet,5.00,"? 3,887.35","? 19,436.75","? 5,494.03",East,West Bengal,Credit Card
+ORD00419,15-10-2025,CUST0246,Customer_0299,Clothing,Sneakers,1.00,"? 2,734.48","? 2,734.48",? 785.86,East,West Bengal,Cash on Delivery
+ORD00420,25-09-2025,CUST0055,Customer_0013,Books,Cooking Book,4.00,"? 1,483.70","? 5,934.80",? 664.53,South,Tamil Nadu,UPI
+ORD00421,16-12-2025,CUST0129,Customer_0075,Clothing,T-Shirt,2.00,"? 3,447.30","? 6,894.60","? 1,599.07",South,Tamil Nadu,Debit Card
+ORD00422,22-02-2025,CUST0288,Customer_0115,Clothing,Sneakers,3.00,"? 2,904.88","? 8,714.64","? 1,442.75",West,Maharashtra,Net Banking
+ORD00423,17-12-2025,CUST0161,Customer_0283,Home & Kitchen,Coffee Maker,4.00,"? 2,478.44","? 9,913.76",? 821.38,West,Maharashtra,Debit Card
+ORD00424,27-12-2025,CUST0189,Customer_0280,Clothing,Sneakers,2.00,"? 3,216.76","? 6,433.52",? 792.76,North,Uttar Pradesh,Credit Card
+ORD00425,08-02-2025,CUST0096,Customer_0089,Home & Kitchen,Water Bottle,2.00,"? 5,904.86","? 11,809.72","? 1,254.88",North,Uttar Pradesh,UPI
+ORD00426,24-03-2025,CUST0300,Customer_0131,Beauty,Face Wash,5.00,? 770.96,"? 3,854.80",? 588.72,South,Tamil Nadu,Credit Card
+ORD00427,17-11-2025,CUST0155,Customer_0252,Electronics,USB Cable,3.00,"? 7,364.12","? 22,092.36","? 4,441.34",South,Karnataka,UPI
+ORD00428,16-09-2025,CUST0082,Customer_0213,Home & Kitchen,Water Bottle,2.00,"? 3,243.49","? 6,486.98","? 1,285.38",North,Delhi,UPI
+ORD00429,19-06-2025,CUST0185,Customer_0151,Home & Kitchen,Mixer Grinder,2.00,"? 4,064.17","? 8,128.34","? 2,349.64",North,Delhi,Net Banking
+ORD00430,29-11-2025,CUST0005,Customer_0059,Books,Data Science Book,5.00,"? 1,509.09","? 7,545.45","? 1,343.44",North,Uttar Pradesh,Net Banking
+ORD00431,14-06-2025,CUST0196,Customer_0059,Books,Cooking Book,1.00,"? 1,276.21","? 1,276.21",? 174.14,North,Delhi,Debit Card
+ORD00432,17-08-2025,CUST0250,Customer_0023,Electronics,Bluetooth Speaker,5.00,"? 9,732.39","? 48,661.95","? 13,509.63",East,West Bengal,Credit Card
+ORD00433,03-10-2025,CUST0274,Customer_0004,Home & Kitchen,Coffee Maker,1.00,"? 1,212.52","? 1,212.52",? 153.23,West,Gujarat,Credit Card
+ORD00434,26-12-2025,CUST0223,Customer_0037,Beauty,Shampoo,2.00,"? 1,413.72","? 2,827.44",? 240.97,West,Gujarat,Debit Card
+ORD00435,09-05-2025,CUST0286,Customer_0037,Electronics,USB Cable,1.00,"? 1,124.08","? 1,124.08",? 293.11,West,Gujarat,Debit Card
+ORD00436,10-08-2025,CUST0162,Customer_0009,Beauty,Perfume,4.00,"? 1,631.01","? 6,524.04","? 1,488.30",North,Rajasthan,Net Banking
+ORD00437,07-02-2025,CUST0184,Customer_0258,Electronics,Wireless Headphones,5.00,"? 1,023.44","? 5,117.20",? 735.67,West,Gujarat,Debit Card
+ORD00438,13-08-2025,CUST0196,Customer_0203,Books,Novel,3.00,"? 1,412.70","? 4,238.10",? 780.99,West,Gujarat,Net Banking
+ORD00439,07-10-2025,CUST0152,Customer_0074,Clothing,Hoodie,4.00,"? 2,849.67","? 11,398.68","? 2,610.34",South,Karnataka,Debit Card
+ORD00440,21-10-2025,CUST0202,Customer_0276,Electronics,USB Cable,1.00,? 980.39,? 980.39,? 282.68,South,Karnataka,Debit Card
+ORD00441,27-11-2025,CUST0263,Customer_0073,Clothing,Jeans,2.00,"? 1,620.49","? 3,240.98",? 390.47,East,West Bengal,Net Banking
+ORD00442,18-10-2025,CUST0028,Customer_0282,Home & Kitchen,Cookware Set,1.00,"? 1,292.81","? 1,292.81",? 286.78,North,Delhi,UPI
+ORD00443,25-10-2025,CUST0250,Customer_0170,Home & Kitchen,Bedsheet,3.00,? 814.66,"? 2,443.98",? 264.46,West,Gujarat,Credit Card
+ORD00444,10-04-2025,CUST0163,Customer_0249,Electronics,Power Bank,5.00,"? 1,302.80","? 6,514.00",? 991.67,South,Tamil Nadu,Debit Card
+ORD00445,11-06-2025,CUST0220,Customer_0087,Books,Novel,5.00,"? 1,085.32","? 5,426.60",? 808.06,South,Karnataka,Credit Card
+ORD00446,19-06-2025,CUST0246,Customer_0237,Beauty,Perfume,3.00,? 465.62,"? 1,396.86",? 221.99,South,Tamil Nadu,Debit Card
+ORD00447,11-02-2025,CUST0144,Customer_0072,Beauty,Hair Dryer,2.00,"? 1,667.05","? 3,334.10",? 410.81,West,Gujarat,UPI
+ORD00448,25-10-2025,CUST0297,Customer_0208,Electronics,USB Cable,5.00,"? 7,763.70","? 38,818.50","? 4,922.47",West,Maharashtra,UPI
+ORD00449,04-10-2025,CUST0242,Customer_0077,Books,Data Science Book,5.00,"? 1,625.08","? 8,125.40","? 1,351.66",South,Tamil Nadu,Net Banking
+ORD00450,16-02-2025,CUST0204,Customer_0187,Home & Kitchen,Water Bottle,4.00,"? 3,131.46","? 12,525.84","? 1,031.25",South,Karnataka,Credit Card
+ORD00451,23-03-2025,CUST0092,Customer_0290,Books,Children Book,5.00,? 381.61,"? 1,908.05",? 429.45,South,Karnataka,Credit Card
+ORD00452,07-09-2025,CUST0119,Customer_0033,Beauty,Moisturizer,1.00,? 664.22,? 664.22,? 107.12,East,West Bengal,UPI
+ORD00453,21-08-2025,CUST0024,Customer_0021,Clothing,Hoodie,4.00,"? 1,802.96","? 7,211.84",? 740.72,East,West Bengal,Net Banking
+ORD00454,31-03-2025,CUST0193,Customer_0194,Home & Kitchen,Bedsheet,5.00,"? 3,380.01","? 16,900.05","? 3,537.00",South,Tamil Nadu,UPI
+ORD00455,25-04-2025,CUST0265,Customer_0208,Books,Data Science Book,4.00,"? 1,754.91","? 7,019.64","? 1,823.65",South,Tamil Nadu,Debit Card
+ORD00456,13-03-2025,CUST0226,Customer_0085,Beauty,Shampoo,5.00,? 165.50,? 827.50,? 80.23,North,Uttar Pradesh,Debit Card
+ORD00457,05-11-2025,CUST0061,Customer_0118,Clothing,Kurta,2.00,? 803.54,"? 1,607.08",? 415.36,South,Karnataka,UPI
+ORD00458,24-03-2025,CUST0211,Customer_0012,Beauty,Shampoo,4.00,? 645.15,"? 2,580.60",? 230.94,North,Uttar Pradesh,Net Banking
+ORD00459,21-01-2025,CUST0294,Customer_0076,Books,Novel,2.00,"? 1,188.74","? 2,377.48",? 277.20,South,Karnataka,Credit Card
+ORD00460,23-11-2025,CUST0010,Customer_0146,Books,Novel,5.00,"? 1,749.25","? 8,746.25","? 1,116.46",North,Rajasthan,Net Banking
+ORD00461,30-07-2025,CUST0074,Customer_0299,Beauty,Shampoo,2.00,? 665.50,"? 1,331.00",? 288.97,North,Uttar Pradesh,Net Banking
+ORD00462,02-11-2025,CUST0036,Customer_0118,Home & Kitchen,Cookware Set,3.00,"? 5,553.52","? 16,660.56","? 2,745.69",South,Karnataka,UPI
+ORD00463,16-09-2025,CUST0215,Customer_0077,Electronics,USB Cable,5.00,"? 10,385.30","? 51,926.50","? 5,254.22",North,Delhi,Cash on Delivery
+ORD00464,02-03-2025,CUST0048,Customer_0247,Books,Self Help Book,5.00,? 980.49,"? 4,902.45","? 1,365.02",West,Maharashtra,Net Banking
+ORD00465,23-01-2025,CUST0272,Customer_0220,Electronics,Smart Watch,5.00,"? 5,337.87","? 26,689.35","? 7,645.24",North,Rajasthan,Cash on Delivery
+ORD00466,23-12-2025,CUST0295,Customer_0051,Beauty,Perfume,5.00,"? 2,040.86","? 10,204.30","? 1,116.90",East,West Bengal,Cash on Delivery
+ORD00467,06-10-2025,CUST0210,Customer_0132,Clothing,Jeans,3.00,"? 2,214.54","? 6,643.62",? 539.48,West,Gujarat,UPI
+ORD00468,02-12-2025,CUST0106,Customer_0162,Books,Cooking Book,5.00,? 161.87,? 809.35,? 129.25,West,Gujarat,Credit Card
+ORD00469,05-08-2025,CUST0290,Customer_0188,Beauty,Hair Dryer,3.00,"? 2,159.20","? 6,477.60",? 910.90,South,Tamil Nadu,Cash on Delivery
+ORD00470,05-09-2025,CUST0092,Customer_0190,Clothing,Sneakers,5.00,"? 2,808.12","? 14,040.60","? 2,837.33",North,Rajasthan,Debit Card
+ORD00471,04-12-2025,CUST0061,Customer_0118,Home & Kitchen,Cookware Set,4.00,"? 4,480.75","? 17,923.00","? 4,521.69",East,West Bengal,Credit Card
+ORD00472,23-06-2025,CUST0282,Customer_0027,Electronics,Smart Watch,5.00,"? 5,106.45","? 25,532.25","? 4,228.21",North,Delhi,UPI
+ORD00473,11-08-2025,CUST0046,Customer_0033,Electronics,Bluetooth Speaker,4.00,"? 11,147.41","? 44,589.64","? 5,742.68",South,Karnataka,UPI
+ORD00474,25-07-2025,CUST0267,Customer_0147,Books,Children Book,4.00,"? 1,685.63","? 6,742.52",? 624.64,West,Maharashtra,Credit Card
+ORD00475,03-12-2025,CUST0266,Customer_0147,Beauty,Shampoo,1.00,? 624.01,? 624.01,? 54.53,North,Uttar Pradesh,Net Banking
+ORD00476,19-01-2025,CUST0185,Customer_0123,Books,Novel,5.00,? 429.65,"? 2,148.25",? 632.96,North,Delhi,UPI
+ORD00477,27-07-2025,CUST0103,Customer_0266,Home & Kitchen,Coffee Maker,3.00,"? 4,100.56","? 12,301.68","? 2,978.53",North,Rajasthan,UPI
+ORD00478,28-06-2025,CUST0178,Customer_0142,Electronics,Smart Watch,5.00,"? 11,022.60","? 55,113.00","? 11,761.11",South,Tamil Nadu,Credit Card
+ORD00479,31-03-2025,CUST0209,Customer_0260,Beauty,Face Wash,5.00,? 160.93,? 804.65,? 163.26,North,Rajasthan,Net Banking
+ORD00480,12-05-2025,CUST0276,Customer_0295,Home & Kitchen,Bedsheet,1.00,"? 4,866.92","? 4,866.92","? 1,132.64",East,West Bengal,Cash on Delivery
+ORD00481,23-08-2025,CUST0236,Customer_0015,Books,Cooking Book,2.00,"? 1,399.83","? 2,799.66",? 295.59,North,Uttar Pradesh,UPI
+ORD00482,31-07-2025,CUST0181,Customer_0265,Beauty,Hair Dryer,2.00,"? 2,030.38","? 4,060.76",? 333.55,North,Delhi,Debit Card
+ORD00483,25-06-2025,CUST0039,Customer_0284,Clothing,Jeans,1.00,"? 1,576.58","? 1,576.58",? 291.42,South,Tamil Nadu,Debit Card
+ORD00484,16-12-2025,CUST0098,Customer_0256,Clothing,Jeans,2.00,"? 3,330.78","? 6,661.56",? 877.12,South,Tamil Nadu,Credit Card
+ORD00485,08-05-2025,CUST0183,Customer_0080,Home & Kitchen,Coffee Maker,2.00,"? 1,415.91","? 2,831.82",? 301.23,North,Delhi,UPI
+ORD00486,04-09-2025,CUST0191,Customer_0162,Beauty,Perfume,5.00,"? 2,401.28","? 12,006.40","? 3,332.82",West,Maharashtra,Net Banking
+ORD00487,19-09-2025,CUST0144,Customer_0204,Home & Kitchen,Mixer Grinder,2.00,"? 5,910.27","? 11,820.54","? 2,896.47",North,Uttar Pradesh,Credit Card
+ORD00488,17-01-2025,CUST0258,Customer_0178,Electronics,Power Bank,4.00,"? 11,306.03","? 45,224.12","? 12,178.31",North,Rajasthan,Credit Card
+ORD00489,19-12-2025,CUST0005,Customer_0007,Beauty,Shampoo,5.00,"? 1,231.17","? 6,155.85","? 1,006.32",West,Gujarat,UPI
+ORD00490,06-04-2025,CUST0281,Customer_0135,Home & Kitchen,Mixer Grinder,5.00,"? 5,205.59","? 26,027.95","? 3,624.91",East,West Bengal,Net Banking
+ORD00491,18-04-2025,CUST0215,Customer_0191,Home & Kitchen,Bedsheet,2.00,"? 3,117.93","? 6,235.86","? 1,670.91",East,West Bengal,Debit Card
+ORD00492,22-10-2025,CUST0118,Customer_0052,Beauty,Moisturizer,5.00,? 458.18,"? 2,290.90",? 588.53,South,Karnataka,Net Banking
+ORD00493,18-03-2025,CUST0243,Customer_0005,Beauty,Shampoo,2.00,? 492.73,? 985.46,? 170.22,North,Rajasthan,Credit Card
+ORD00494,15-10-2025,CUST0291,Customer_0025,Books,Cooking Book,4.00,? 645.06,"? 2,580.24",? 262.60,East,West Bengal,Credit Card
+ORD00495,19-11-2025,CUST0050,Customer_0231,Electronics,Bluetooth Speaker,3.00,"? 5,980.20","? 17,940.60","? 2,460.54",North,Delhi,Debit Card
+ORD00496,04-03-2025,CUST0180,Customer_0102,Books,Children Book,3.00,? 182.73,? 548.19,? 113.31,South,Tamil Nadu,Net Banking
+ORD00497,19-09-2025,CUST0250,Customer_0229,Clothing,T-Shirt,3.00,"? 1,340.29","? 4,020.87",? 658.76,South,Tamil Nadu,Debit Card
+ORD00498,22-06-2025,CUST0216,Customer_0293,Beauty,Perfume,2.00,"? 1,655.36","? 3,310.72",? 883.16,South,Karnataka,UPI
+ORD00499,12-06-2025,CUST0150,Customer_0137,Electronics,USB Cable,3.00,"? 3,124.51","? 9,373.53","? 2,079.25",South,Karnataka,Debit Card
+ORD00500,19-08-2025,CUST0212,Customer_0086,Beauty,Shampoo,5.00,"? 1,374.20","? 6,871.00","? 1,840.92",East,West Bengal,Credit Card
+ORD00501,23-07-2025,CUST0053,Customer_0049,Clothing,T-Shirt,1.00,? 973.83,? 973.83,? 278.61,South,Tamil Nadu,Cash on Delivery
+ORD00502,26-09-2025,CUST0043,Customer_0054,Books,Data Science Book,1.00,"? 1,422.04","? 1,422.04",? 307.14,West,Maharashtra,UPI
+ORD00503,26-05-2025,CUST0227,Customer_0065,Beauty,Shampoo,2.00,? 731.38,"? 1,462.76",? 286.53,South,Tamil Nadu,Credit Card
+ORD00504,16-06-2025,CUST0244,Customer_0240,Electronics,USB Cable,3.00,"? 10,394.24","? 31,182.72","? 8,907.93",West,Maharashtra,Net Banking
+ORD00505,02-11-2025,CUST0234,Customer_0289,Beauty,Perfume,5.00,? 566.04,"? 2,830.20",? 552.35,South,Karnataka,Net Banking
+ORD00506,15-02-2025,CUST0227,Customer_0158,Home & Kitchen,Bedsheet,4.00,"? 3,353.09","? 13,412.36","? 2,289.29",East,West Bengal,Credit Card
+ORD00507,11-03-2025,CUST0177,Customer_0147,Home & Kitchen,Cookware Set,1.00,"? 3,259.07","? 3,259.07",? 644.39,West,Maharashtra,Cash on Delivery
+ORD00508,30-05-2025,CUST0119,Customer_0004,Beauty,Hair Dryer,1.00,"? 1,949.79","? 1,949.79",? 316.26,South,Tamil Nadu,Cash on Delivery
+ORD00509,27-11-2025,CUST0200,Customer_0194,Books,Self Help Book,4.00,? 562.33,"? 2,249.32",? 310.08,North,Rajasthan,Cash on Delivery
+ORD00510,30-09-2025,CUST0138,Customer_0212,Clothing,Jeans,3.00,"? 2,375.06","? 7,125.18","? 1,907.88",South,Tamil Nadu,Credit Card
+ORD00511,13-11-2025,CUST0232,Customer_0140,Clothing,Sneakers,1.00,"? 2,338.06","? 2,338.06",? 440.11,South,Tamil Nadu,Debit Card
+ORD00512,12-01-2025,CUST0096,Customer_0053,Electronics,Bluetooth Speaker,1.00,"? 11,651.74","? 11,651.74","? 1,622.19",South,Karnataka,Cash on Delivery
+ORD00513,10-09-2025,CUST0112,Customer_0176,Electronics,Power Bank,1.00,"? 2,232.86","? 2,232.86",? 331.68,North,Delhi,Cash on Delivery
+ORD00514,16-03-2025,CUST0029,Customer_0137,Home & Kitchen,Cookware Set,1.00,"? 2,148.93","? 2,148.93",? 205.66,North,Uttar Pradesh,Cash on Delivery
+ORD00515,07-01-2025,CUST0063,Customer_0128,Clothing,Kurta,3.00,"? 2,915.20","? 8,745.60","? 2,183.51",North,Delhi,Cash on Delivery
+ORD00516,18-02-2025,CUST0267,Customer_0107,Clothing,Kurta,2.00,"? 1,774.67","? 3,549.34",? 587.80,West,Maharashtra,Debit Card
+ORD00517,09-10-2025,CUST0267,Customer_0063,Home & Kitchen,Bedsheet,1.00,"? 4,532.17","? 4,532.17",? 842.40,South,Karnataka,Debit Card
+ORD00518,22-04-2025,CUST0058,Customer_0121,Clothing,Kurta,1.00,"? 3,063.70","? 3,063.70",? 463.82,East,West Bengal,Credit Card
+ORD00519,05-01-2025,CUST0022,Customer_0298,Home & Kitchen,Cookware Set,4.00,"? 4,787.58","? 19,150.32","? 4,432.33",West,Gujarat,Credit Card
+ORD00520,16-02-2025,CUST0174,Customer_0031,Home & Kitchen,Coffee Maker,2.00,"? 1,156.77","? 2,313.54",? 366.03,West,Gujarat,Credit Card
+ORD00521,12-06-2025,CUST0286,Customer_0178,Books,Cooking Book,2.00,? 954.94,"? 1,909.88",? 460.86,West,Gujarat,UPI
+ORD00522,21-01-2025,CUST0249,Customer_0225,Beauty,Hair Dryer,2.00,? 739.14,"? 1,478.28",? 214.11,East,West Bengal,Cash on Delivery
+ORD00523,28-08-2025,CUST0141,Customer_0284,Clothing,Jeans,5.00,"? 1,412.53","? 7,062.65",? 672.03,South,Karnataka,Credit Card
+ORD00524,21-08-2025,CUST0001,Customer_0260,Beauty,Perfume,3.00,"? 1,422.77","? 4,268.31","? 1,030.39",South,Tamil Nadu,UPI
+ORD00525,02-02-2025,CUST0276,Customer_0199,Books,Self Help Book,5.00,? 544.00,"? 2,720.00",? 531.20,East,West Bengal,Cash on Delivery
+ORD00526,29-07-2025,CUST0165,Customer_0057,Books,Novel,5.00,? 617.16,"? 3,085.80",? 602.05,South,Karnataka,UPI
+ORD00527,14-04-2025,CUST0055,Customer_0249,Electronics,Smart Watch,2.00,"? 10,545.17","? 21,090.34","? 2,145.43",South,Karnataka,Net Banking
+ORD00528,30-10-2025,CUST0132,Customer_0026,Beauty,Moisturizer,5.00,"? 1,616.33","? 8,081.65","? 1,038.97",North,Uttar Pradesh,UPI
+ORD00529,10-02-2025,CUST0240,Customer_0032,Electronics,Bluetooth Speaker,4.00,"? 11,176.64","? 44,706.56","? 9,064.90",North,Delhi,Cash on Delivery
+ORD00530,21-01-2025,CUST0037,Customer_0156,Home & Kitchen,Coffee Maker,5.00,"? 1,778.44","? 8,892.20","? 2,559.29",West,Maharashtra,Net Banking
+ORD00531,08-04-2025,CUST0099,Customer_0270,Electronics,Smart Watch,2.00,"? 6,614.10","? 13,228.20","? 2,717.15",West,Gujarat,Credit Card
+ORD00532,23-10-2025,CUST0184,Customer_0235,Books,Cooking Book,1.00,"? 1,414.37","? 1,414.37",? 387.85,North,Rajasthan,Credit Card
+ORD00533,22-03-2025,CUST0274,Customer_0227,Clothing,Hoodie,5.00,"? 1,380.04","? 6,900.20","? 1,922.03",North,Rajasthan,Net Banking
+ORD00534,09-08-2025,CUST0166,Customer_0124,Home & Kitchen,Water Bottle,4.00,"? 4,644.06","? 18,576.24","? 3,715.95",East,West Bengal,Cash on Delivery
+ORD00535,18-08-2025,CUST0204,Customer_0001,Books,Novel,3.00,"? 1,736.73","? 5,210.19","? 1,543.52",South,Tamil Nadu,Net Banking
+ORD00536,24-04-2025,CUST0110,Customer_0162,Electronics,Wireless Headphones,3.00,? 575.54,"? 1,726.62",? 431.20,South,Karnataka,Debit Card
+ORD00537,02-07-2025,CUST0080,Customer_0071,Books,Data Science Book,1.00,? 212.26,? 212.26,? 34.12,South,Karnataka,Net Banking
+ORD00538,17-02-2025,CUST0293,Customer_0205,Clothing,Sneakers,3.00,"? 2,895.44","? 8,686.32","? 2,448.97",North,Delhi,UPI
+ORD00539,20-12-2025,CUST0296,Customer_0049,Home & Kitchen,Water Bottle,2.00,"? 3,057.59","? 6,115.18","? 1,353.26",North,Uttar Pradesh,UPI
+ORD00540,21-06-2025,CUST0179,Customer_0223,Books,Cooking Book,1.00,"? 1,437.20","? 1,437.20",? 409.10,North,Rajasthan,UPI
+ORD00541,26-09-2025,CUST0022,Customer_0164,Clothing,Sneakers,4.00,? 473.21,"? 1,892.84",? 386.67,West,Maharashtra,Debit Card
+ORD00542,21-07-2025,CUST0229,Customer_0295,Books,Children Book,2.00,? 233.36,? 466.72,? 46.59,North,Delhi,Cash on Delivery
+ORD00543,12-02-2025,CUST0244,Customer_0293,Home & Kitchen,Coffee Maker,2.00,"? 1,010.09","? 2,020.18",? 405.24,North,Rajasthan,Debit Card
+ORD00544,24-12-2025,CUST0067,Customer_0070,Electronics,Power Bank,5.00,"? 5,496.65","? 27,483.25","? 5,580.34",North,Rajasthan,Cash on Delivery
+ORD00545,26-09-2025,CUST0127,Customer_0125,Beauty,Face Wash,5.00,"? 1,597.59","? 7,987.95","? 1,106.94",North,Delhi,Cash on Delivery
+ORD00546,05-08-2025,CUST0188,Customer_0179,Home & Kitchen,Mixer Grinder,1.00,"? 4,112.55","? 4,112.55",? 619.20,West,Gujarat,Net Banking
+ORD00547,12-11-2025,CUST0227,Customer_0075,Electronics,Power Bank,2.00,"? 11,858.00","? 23,716.00","? 2,131.43",South,Tamil Nadu,Credit Card
+ORD00548,13-02-2025,CUST0058,Customer_0028,Clothing,Jeans,2.00,"? 2,724.75","? 5,449.50","? 1,573.64",East,West Bengal,Credit Card
+ORD00549,26-02-2025,CUST0157,Customer_0231,Home & Kitchen,Cookware Set,3.00,"? 4,239.32","? 12,717.96","? 1,081.08",West,Maharashtra,Credit Card
+ORD00550,13-05-2025,CUST0281,Customer_0248,Books,Children Book,2.00,"? 1,051.60","? 2,103.20",? 505.99,North,Delhi,Credit Card
+ORD00551,27-09-2025,CUST0023,Customer_0131,Electronics,Smart Watch,5.00,"? 10,919.46","? 54,597.30","? 5,089.79",North,Rajasthan,Credit Card
+ORD00552,05-01-2025,CUST0035,Customer_0199,Books,Data Science Book,1.00,? 917.19,? 917.19,? 207.15,South,Tamil Nadu,Debit Card
+ORD00553,29-11-2025,CUST0198,Customer_0119,Electronics,Power Bank,3.00,"? 10,475.22","? 31,425.66","? 6,029.92",West,Maharashtra,UPI
+ORD00554,06-04-2025,CUST0102,Customer_0257,Home & Kitchen,Cookware Set,5.00,"? 3,306.47","? 16,532.35","? 3,361.87",North,Uttar Pradesh,UPI
+ORD00555,08-09-2025,CUST0202,Customer_0081,Electronics,Wireless Headphones,5.00,"? 4,006.67","? 20,033.35","? 3,131.04",North,Delhi,Debit Card
+ORD00556,14-09-2025,CUST0142,Customer_0032,Home & Kitchen,Bedsheet,2.00,"? 5,976.97","? 11,953.94","? 3,267.12",South,Tamil Nadu,UPI
+ORD00557,21-07-2025,CUST0071,Customer_0045,Books,Cooking Book,2.00,? 400.32,? 800.64,? 155.77,South,Tamil Nadu,Net Banking
+ORD00558,07-08-2025,CUST0160,Customer_0169,Clothing,Kurta,2.00,"? 2,133.28","? 4,266.56",? 850.29,North,Rajasthan,Credit Card
+ORD00559,28-12-2025,CUST0269,Customer_0070,Clothing,Kurta,2.00,"? 1,288.79","? 2,577.58",? 770.83,North,Delhi,Credit Card
+ORD00560,30-09-2025,CUST0061,Customer_0095,Books,Data Science Book,3.00,? 261.89,? 785.67,? 207.96,South,Karnataka,Credit Card
+ORD00561,05-06-2025,CUST0227,Customer_0141,Electronics,Smart Watch,4.00,"? 11,553.76","? 46,215.04","? 11,618.63",East,West Bengal,UPI
+ORD00562,10-11-2025,CUST0137,Customer_0291,Clothing,Sneakers,1.00,"? 2,739.83","? 2,739.83",? 358.37,South,Karnataka,Credit Card
+ORD00563,02-09-2025,CUST0069,Customer_0258,Clothing,Sneakers,3.00,? 554.32,"? 1,662.96",? 304.53,West,Maharashtra,Debit Card
+ORD00564,25-03-2025,CUST0099,Customer_0116,Clothing,T-Shirt,4.00,"? 1,816.31","? 7,265.24","? 1,234.29",North,Rajasthan,UPI
+ORD00565,14-04-2025,CUST0105,Customer_0034,Home & Kitchen,Mixer Grinder,2.00,"? 4,518.61","? 9,037.22","? 2,566.23",North,Rajasthan,Cash on Delivery
+ORD00566,07-05-2025,CUST0219,Customer_0208,Books,Novel,3.00,"? 1,580.18","? 4,740.54","? 1,013.26",North,Uttar Pradesh,Cash on Delivery
+ORD00567,20-10-2025,CUST0275,Customer_0269,Home & Kitchen,Coffee Maker,5.00,"? 5,650.05","? 28,250.25","? 5,495.88",North,Rajasthan,Cash on Delivery
+ORD00568,22-07-2025,CUST0021,Customer_0286,Beauty,Perfume,2.00,"? 1,368.95","? 2,737.90",? 529.91,West,Maharashtra,UPI
+ORD00569,05-06-2025,CUST0147,Customer_0237,Clothing,Jeans,4.00,"? 1,573.73","? 6,294.92","? 1,088.65",South,Tamil Nadu,Net Banking
+ORD00570,20-08-2025,CUST0047,Customer_0257,Electronics,Wireless Headphones,4.00,"? 10,043.78","? 40,175.12","? 4,802.92",South,Karnataka,Net Banking
+ORD00571,19-08-2025,CUST0013,Customer_0092,Books,Cooking Book,4.00,? 832.37,"? 3,329.48",? 698.76,South,Karnataka,Credit Card
+ORD00572,29-11-2025,CUST0084,Customer_0064,Beauty,Face Wash,3.00,? 911.58,"? 2,734.74",? 287.47,West,Gujarat,Cash on Delivery
+ORD00573,19-09-2025,CUST0082,Customer_0194,Home & Kitchen,Water Bottle,5.00,"? 4,316.85","? 21,584.25","? 3,534.07",West,Gujarat,Credit Card
+ORD00574,02-04-2025,CUST0027,Customer_0215,Home & Kitchen,Bedsheet,2.00,"? 5,245.71","? 10,491.42","? 1,553.72",South,Karnataka,Cash on Delivery
+ORD00575,14-04-2025,CUST0002,Customer_0130,Home & Kitchen,Coffee Maker,1.00,"? 5,416.62","? 5,416.62",? 979.87,South,Karnataka,Cash on Delivery
+ORD00576,02-05-2025,CUST0112,Customer_0244,Books,Cooking Book,5.00,"? 1,606.46","? 8,032.30","? 1,367.36",West,Maharashtra,UPI
+ORD00577,23-05-2025,CUST0286,Customer_0107,Books,Novel,2.00,"? 1,605.58","? 3,211.16",? 387.47,West,Maharashtra,UPI
+ORD00578,08-12-2025,CUST0296,Customer_0153,Home & Kitchen,Bedsheet,2.00,"? 5,159.52","? 10,319.04","? 2,914.97",West,Maharashtra,UPI
+ORD00579,26-05-2025,CUST0294,Customer_0288,Electronics,Smart Watch,2.00,"? 2,355.36","? 4,710.72","? 1,378.28",North,Rajasthan,Net Banking
+ORD00580,15-06-2025,CUST0189,Customer_0195,Home & Kitchen,Coffee Maker,1.00,"? 4,668.94","? 4,668.94","? 1,152.56",West,Maharashtra,Net Banking
+ORD00581,22-12-2025,CUST0141,Customer_0169,Electronics,USB Cable,4.00,"? 2,047.28","? 8,189.12","? 1,400.56",South,Tamil Nadu,Credit Card
+ORD00582,19-11-2025,CUST0271,Customer_0045,Clothing,Kurta,1.00,"? 2,128.37","? 2,128.37",? 509.31,West,Maharashtra,Net Banking
+ORD00583,13-05-2025,CUST0270,Customer_0295,Home & Kitchen,Water Bottle,5.00,"? 5,124.84","? 25,624.20","? 4,044.72",North,Rajasthan,Credit Card
+ORD00584,12-09-2025,CUST0253,Customer_0093,Books,Children Book,5.00,"? 1,353.15","? 6,765.75",? 887.66,North,Uttar Pradesh,Debit Card
+ORD00585,17-11-2025,CUST0061,Customer_0107,Clothing,Sneakers,1.00,? 376.76,? 376.76,? 112.94,West,Maharashtra,Cash on Delivery
+ORD00586,23-11-2025,CUST0109,Customer_0006,Electronics,Smart Watch,3.00,"? 6,944.78","? 20,834.34","? 4,829.48",East,West Bengal,Debit Card
+ORD00587,15-06-2025,CUST0004,Customer_0059,Electronics,Bluetooth Speaker,3.00,"? 6,326.93","? 18,980.79","? 2,943.91",South,Tamil Nadu,Net Banking
+ORD00588,23-06-2025,CUST0246,Customer_0243,Books,Novel,2.00,? 470.13,? 940.26,? 208.78,West,Maharashtra,Cash on Delivery
+ORD00589,25-08-2025,CUST0212,Customer_0029,Clothing,Sneakers,5.00,"? 3,166.97","? 15,834.85","? 2,309.60",North,Uttar Pradesh,Debit Card
+ORD00590,19-06-2025,CUST0182,Customer_0034,Books,Self Help Book,2.00,"? 1,102.71","? 2,205.42",? 312.51,West,Maharashtra,UPI
+ORD00591,20-10-2025,CUST0200,Customer_0096,Home & Kitchen,Water Bottle,5.00,"? 5,093.83","? 25,469.15","? 2,692.24",North,Rajasthan,Debit Card
+ORD00592,12-09-2025,CUST0122,Customer_0191,Home & Kitchen,Cookware Set,3.00,"? 2,629.75","? 7,889.25","? 2,070.78",West,Maharashtra,Debit Card
+ORD00593,20-01-2025,CUST0104,Customer_0048,Clothing,Kurta,2.00,? 659.14,"? 1,318.28",? 252.21,South,Tamil Nadu,Cash on Delivery
+ORD00594,05-09-2025,CUST0269,Customer_0159,Books,Data Science Book,2.00,? 711.19,"? 1,422.38",? 158.63,South,Karnataka,UPI
+ORD00595,24-08-2025,CUST0199,Customer_0268,Books,Novel,2.00,"? 1,345.54","? 2,691.08",? 217.72,South,Karnataka,UPI
+ORD00596,24-01-2025,CUST0053,Customer_0267,Books,Data Science Book,3.00,? 920.35,"? 2,761.05",? 234.54,West,Gujarat,Debit Card
+ORD00597,22-05-2025,CUST0273,Customer_0164,Clothing,Kurta,2.00,? 916.15,"? 1,832.30",? 417.12,East,West Bengal,Debit Card
+ORD00598,15-11-2025,CUST0287,Customer_0264,Clothing,T-Shirt,3.00,? 666.27,"? 1,998.81",? 250.74,South,Karnataka,Debit Card
+ORD00599,27-12-2025,CUST0146,Customer_0294,Books,Self Help Book,3.00,? 383.57,"? 1,150.71",? 135.42,East,West Bengal,Debit Card
+ORD00600,08-03-2025,CUST0015,Customer_0242,Books,Novel,5.00,? 882.02,"? 4,410.10",? 455.58,East,West Bengal,UPI
+ORD00601,02-11-2025,CUST0229,Customer_0183,Electronics,Bluetooth Speaker,4.00,"? 2,558.30","? 10,233.20","? 1,566.84",North,Rajasthan,Credit Card
+ORD00602,17-02-2025,CUST0240,Customer_0050,Books,Cooking Book,4.00,"? 1,086.85","? 4,347.40",? 644.66,West,Gujarat,Cash on Delivery
+ORD00603,12-11-2025,CUST0133,Customer_0187,Beauty,Perfume,2.00,? 487.75,? 975.50,? 117.39,North,Delhi,Debit Card
+ORD00604,01-09-2025,CUST0058,Customer_0180,Home & Kitchen,Cookware Set,4.00,? 424.02,"? 1,696.08",? 307.79,North,Uttar Pradesh,Credit Card
+ORD00605,18-09-2025,CUST0053,Customer_0208,Home & Kitchen,Coffee Maker,5.00,"? 3,554.40","? 17,772.00","? 2,695.86",East,West Bengal,UPI
+ORD00606,03-05-2025,CUST0125,Customer_0281,Home & Kitchen,Mixer Grinder,4.00,"? 3,645.58","? 14,582.32","? 4,290.94",North,Uttar Pradesh,Cash on Delivery
+ORD00607,30-10-2025,CUST0221,Customer_0223,Electronics,USB Cable,2.00,"? 9,860.03","? 19,720.06","? 4,993.35",East,West Bengal,Net Banking
+ORD00608,31-12-2025,CUST0294,Customer_0250,Clothing,T-Shirt,1.00,"? 2,665.97","? 2,665.97",? 560.59,South,Karnataka,Cash on Delivery
+ORD00609,27-07-2025,CUST0036,Customer_0056,Home & Kitchen,Water Bottle,4.00,"? 1,263.00","? 5,052.00","? 1,261.46",West,Gujarat,Cash on Delivery
+ORD00610,13-03-2025,CUST0298,Customer_0001,Home & Kitchen,Mixer Grinder,1.00,? 770.56,? 770.56,? 173.68,North,Uttar Pradesh,Cash on Delivery
+ORD00611,17-08-2025,CUST0101,Customer_0106,Books,Data Science Book,4.00,"? 1,165.69","? 4,662.76",? 680.49,South,Tamil Nadu,Debit Card
+ORD00612,10-11-2025,CUST0262,Customer_0207,Beauty,Shampoo,1.00,"? 1,519.41","? 1,519.41",? 406.52,East,West Bengal,UPI
+ORD00613,03-07-2025,CUST0057,Customer_0145,Home & Kitchen,Coffee Maker,1.00,"? 4,294.29","? 4,294.29",? 565.79,West,Maharashtra,Net Banking
+ORD00614,11-08-2025,CUST0280,Customer_0109,Beauty,Shampoo,4.00,"? 1,104.18","? 4,416.72",? 814.76,East,West Bengal,Credit Card
+ORD00615,20-03-2025,CUST0148,Customer_0065,Books,Self Help Book,3.00,"? 1,535.94","? 4,607.82",? 380.39,North,Rajasthan,UPI
+ORD00616,11-03-2025,CUST0044,Customer_0071,Clothing,Kurta,4.00,"? 3,419.92","? 13,679.68","? 3,683.03",North,Uttar Pradesh,Net Banking
+ORD00617,10-10-2025,CUST0231,Customer_0197,Beauty,Moisturizer,4.00,"? 1,347.13","? 5,388.52",? 698.69,South,Karnataka,Cash on Delivery
+ORD00618,02-05-2025,CUST0257,Customer_0138,Books,Cooking Book,5.00,? 971.96,"? 4,859.80","? 1,379.43",West,Maharashtra,Net Banking
+ORD00619,27-12-2025,CUST0189,Customer_0058,Home & Kitchen,Water Bottle,1.00,"? 3,516.86","? 3,516.86",? 653.92,West,Maharashtra,UPI
+ORD00620,25-09-2025,CUST0046,Customer_0126,Clothing,Kurta,4.00,"? 1,954.24","? 7,816.96","? 1,709.93",South,Tamil Nadu,UPI
+ORD00621,25-06-2025,CUST0274,Customer_0006,Books,Cooking Book,5.00,? 237.08,"? 1,185.40",? 213.24,South,Tamil Nadu,Cash on Delivery
+ORD00622,31-05-2025,CUST0149,Customer_0086,Books,Novel,4.00,? 732.31,"? 2,929.24",? 682.25,East,West Bengal,Net Banking
+ORD00623,24-10-2025,CUST0087,Customer_0294,Home & Kitchen,Coffee Maker,1.00,"? 3,868.48","? 3,868.48",? 868.05,South,Tamil Nadu,Debit Card
+ORD00624,06-03-2025,CUST0259,Customer_0040,Books,Data Science Book,3.00,? 949.85,"? 2,849.55",? 385.98,West,Maharashtra,Net Banking
+ORD00625,27-02-2025,CUST0090,Customer_0078,Home & Kitchen,Cookware Set,3.00,? 331.67,? 995.01,? 160.54,South,Tamil Nadu,Credit Card
+ORD00626,28-09-2025,CUST0017,Customer_0176,Home & Kitchen,Coffee Maker,4.00,"? 1,289.65","? 5,158.60","? 1,510.52",North,Delhi,Net Banking
+ORD00627,02-05-2025,CUST0226,Customer_0086,Clothing,Jeans,4.00,"? 2,765.18","? 11,060.72","? 2,290.75",North,Uttar Pradesh,Debit Card
+ORD00628,26-08-2025,CUST0205,Customer_0244,Electronics,Bluetooth Speaker,1.00,"? 1,104.02","? 1,104.02",? 204.00,South,Tamil Nadu,Net Banking
+ORD00629,16-03-2025,CUST0272,Customer_0223,Clothing,T-Shirt,4.00,"? 1,818.69","? 7,274.76","? 1,044.18",North,Rajasthan,Cash on Delivery
+ORD00630,22-01-2025,CUST0050,Customer_0273,Beauty,Moisturizer,5.00,"? 1,754.76","? 8,773.80","? 2,547.56",East,West Bengal,Cash on Delivery
+ORD00631,20-02-2025,CUST0131,Customer_0300,Books,Cooking Book,3.00,? 596.04,"? 1,788.12",? 324.44,South,Tamil Nadu,Credit Card
+ORD00632,20-12-2025,CUST0093,Customer_0161,Books,Children Book,5.00,? 706.72,"? 3,533.60",? 290.91,North,Delhi,UPI
+ORD00633,23-02-2025,CUST0229,Customer_0180,Electronics,Smart Watch,4.00,"? 1,623.54","? 6,494.16","? 1,555.71",West,Maharashtra,Debit Card
+ORD00634,30-01-2025,CUST0112,Customer_0063,Clothing,T-Shirt,1.00,"? 2,282.07","? 2,282.07",? 225.94,West,Maharashtra,Net Banking
+ORD00635,05-04-2025,CUST0057,Customer_0095,Clothing,Hoodie,5.00,"? 2,870.24","? 14,351.20","? 2,078.13",North,Rajasthan,UPI
+ORD00636,08-12-2025,CUST0166,Customer_0132,Beauty,Shampoo,4.00,"? 1,776.72","? 7,106.88","? 1,789.23",South,Tamil Nadu,Debit Card
+ORD00637,31-01-2025,CUST0133,Customer_0136,Electronics,Smart Watch,4.00,"? 4,325.53","? 17,302.12","? 3,061.20",North,Rajasthan,Cash on Delivery
+ORD00638,25-02-2025,CUST0074,Customer_0277,Clothing,Kurta,2.00,"? 2,365.55","? 4,731.10",? 605.79,North,Rajasthan,UPI
+ORD00639,06-02-2025,CUST0293,Customer_0129,Beauty,Perfume,1.00,? 231.92,? 231.92,? 19.51,South,Tamil Nadu,Cash on Delivery
+ORD00640,17-05-2025,CUST0078,Customer_0169,Clothing,Kurta,1.00,"? 2,426.74","? 2,426.74",? 500.93,West,Maharashtra,Net Banking
+ORD00641,05-02-2025,CUST0277,Customer_0116,Beauty,Face Wash,4.00,"? 1,099.19","? 4,396.76",? 723.59,North,Uttar Pradesh,Cash on Delivery
+ORD00642,25-07-2025,CUST0029,Customer_0047,Electronics,Bluetooth Speaker,3.00,"? 8,341.11","? 25,023.33","? 4,945.06",East,West Bengal,Debit Card
+ORD00643,01-04-2025,CUST0284,Customer_0021,Electronics,Power Bank,3.00,"? 7,949.61","? 23,848.83","? 5,374.61",North,Uttar Pradesh,Debit Card
+ORD00644,20-11-2025,CUST0225,Customer_0098,Beauty,Shampoo,3.00,"? 1,293.28","? 3,879.84",? 340.86,West,Gujarat,UPI
+ORD00645,04-10-2025,CUST0158,Customer_0256,Books,Children Book,4.00,? 791.47,"? 3,165.88",? 925.35,North,Delhi,Cash on Delivery
+ORD00646,22-01-2025,CUST0208,Customer_0061,Electronics,Smart Watch,3.00,"? 1,144.63","? 3,433.89",? 884.44,West,Maharashtra,Net Banking
+ORD00647,06-02-2025,CUST0019,Customer_0073,Beauty,Perfume,5.00,? 697.52,"? 3,487.60",? 780.67,South,Karnataka,Cash on Delivery
+ORD00648,08-03-2025,CUST0008,Customer_0089,Books,Novel,2.00,"? 1,307.14","? 2,614.28",? 729.45,West,Maharashtra,UPI
+ORD00649,24-02-2025,CUST0059,Customer_0255,Beauty,Hair Dryer,5.00,? 300.30,"? 1,501.50",? 384.11,South,Karnataka,Credit Card
+ORD00650,14-12-2025,CUST0206,Customer_0167,Electronics,Wireless Headphones,4.00,"? 4,379.45","? 17,517.80","? 5,162.28",North,Delhi,Net Banking
+ORD00651,20-04-2025,CUST0024,Customer_0089,Books,Data Science Book,3.00,"? 1,530.10","? 4,590.30",? 431.07,South,Karnataka,Debit Card
+ORD00652,11-10-2025,CUST0085,Customer_0225,Clothing,Jeans,2.00,"? 2,528.15","? 5,056.30","? 1,434.21",North,Rajasthan,UPI
+ORD00653,22-03-2025,CUST0009,Customer_0250,Clothing,T-Shirt,5.00,"? 1,503.62","? 7,518.10",? 611.95,West,Gujarat,Credit Card
+ORD00654,01-09-2025,CUST0065,Customer_0106,Electronics,Smart Watch,4.00,"? 8,475.29","? 33,901.16","? 7,484.08",South,Tamil Nadu,Net Banking
+ORD00655,09-11-2025,CUST0020,Customer_0093,Beauty,Perfume,2.00,"? 2,354.51","? 4,709.02","? 1,010.80",North,Rajasthan,UPI
+ORD00656,01-05-2025,CUST0099,Customer_0061,Home & Kitchen,Water Bottle,4.00,? 276.28,"? 1,105.12",? 325.89,East,West Bengal,Net Banking
+ORD00657,04-12-2025,CUST0107,Customer_0142,Home & Kitchen,Coffee Maker,4.00,"? 4,679.40","? 18,717.60","? 2,295.12",North,Delhi,Credit Card
+ORD00658,23-01-2025,CUST0028,Customer_0187,Beauty,Moisturizer,2.00,? 525.44,"? 1,050.88",? 132.53,North,Uttar Pradesh,Debit Card
+ORD00659,27-01-2025,CUST0276,Customer_0091,Home & Kitchen,Mixer Grinder,1.00,? 850.42,? 850.42,? 214.99,North,Uttar Pradesh,Cash on Delivery
+ORD00660,16-08-2025,CUST0297,Customer_0167,Books,Cooking Book,1.00,"? 1,626.88","? 1,626.88",? 201.29,West,Gujarat,Debit Card
+ORD00661,02-05-2025,CUST0212,Customer_0103,Clothing,Kurta,3.00,"? 1,028.90","? 3,086.70",? 852.24,West,Gujarat,UPI
+ORD00662,16-03-2025,CUST0111,Customer_0233,Beauty,Shampoo,1.00,"? 2,242.65","? 2,242.65",? 370.51,North,Uttar Pradesh,Credit Card
+ORD00663,14-04-2025,CUST0172,Customer_0066,Beauty,Face Wash,3.00,"? 2,442.56","? 7,327.68","? 1,702.12",North,Delhi,UPI
+ORD00664,23-08-2025,CUST0215,Customer_0088,Home & Kitchen,Bedsheet,1.00,"? 5,147.00","? 5,147.00",? 660.71,South,Karnataka,Debit Card
+ORD00665,23-10-2025,CUST0284,Customer_0118,Books,Novel,5.00,"? 1,644.20","? 8,221.00","? 1,402.28",South,Karnataka,Net Banking
+ORD00666,25-08-2025,CUST0143,Customer_0008,Beauty,Perfume,5.00,"? 1,262.70","? 6,313.50","? 1,527.61",North,Delhi,Credit Card
+ORD00667,30-10-2025,CUST0077,Customer_0294,Clothing,T-Shirt,4.00,"? 2,154.29","? 8,617.16","? 1,481.37",East,West Bengal,UPI
+ORD00668,29-09-2025,CUST0202,Customer_0246,Electronics,Wireless Headphones,5.00,? 886.64,"? 4,433.20",? 795.92,North,Uttar Pradesh,Credit Card
+ORD00669,09-03-2025,CUST0184,Customer_0152,Electronics,Smart Watch,4.00,"? 11,424.24","? 45,696.96","? 10,166.70",West,Maharashtra,UPI
+ORD00670,24-08-2025,CUST0293,Customer_0299,Electronics,Wireless Headphones,3.00,"? 2,360.73","? 7,082.19","? 2,087.92",North,Uttar Pradesh,Cash on Delivery
+ORD00671,09-07-2025,CUST0238,Customer_0001,Clothing,T-Shirt,2.00,"? 2,827.55","? 5,655.10",? 931.24,North,Rajasthan,Debit Card
+ORD00672,19-05-2025,CUST0278,Customer_0295,Books,Self Help Book,3.00,? 852.74,"? 2,558.22",? 647.98,West,Maharashtra,UPI
+ORD00673,12-12-2025,CUST0187,Customer_0027,Books,Novel,1.00,? 999.32,? 999.32,? 164.14,East,West Bengal,Cash on Delivery
+ORD00674,28-11-2025,CUST0287,Customer_0035,Books,Children Book,3.00,? 754.61,"? 2,263.83",? 534.39,West,Maharashtra,Credit Card
+ORD00675,29-11-2025,CUST0245,Customer_0298,Clothing,Jeans,2.00,"? 2,026.83","? 4,053.66",? 995.98,East,West Bengal,Credit Card
+ORD00676,05-08-2025,CUST0142,Customer_0028,Home & Kitchen,Coffee Maker,3.00,"? 3,145.50","? 9,436.50","? 1,528.89",East,West Bengal,Cash on Delivery
+ORD00677,14-12-2025,CUST0273,Customer_0150,Beauty,Perfume,4.00,"? 1,818.09","? 7,272.36","? 1,575.26",West,Gujarat,UPI
+ORD00678,02-04-2025,CUST0148,Customer_0040,Clothing,T-Shirt,1.00,? 556.55,? 556.55,? 64.70,North,Uttar Pradesh,UPI
+ORD00679,24-09-2025,CUST0012,Customer_0151,Clothing,Kurta,2.00,"? 3,099.98","? 6,199.96","? 1,818.49",North,Uttar Pradesh,Net Banking
+ORD00680,27-11-2025,CUST0011,Customer_0150,Clothing,Jeans,3.00,"? 1,644.42","? 4,933.26",? 462.98,North,Uttar Pradesh,Credit Card
+ORD00681,02-12-2025,CUST0168,Customer_0249,Books,Children Book,4.00,"? 1,104.86","? 4,419.44","? 1,000.95",East,West Bengal,Net Banking
+ORD00682,09-03-2025,CUST0157,Customer_0088,Books,Data Science Book,4.00,? 651.74,"? 2,606.96",? 338.62,North,Uttar Pradesh,Debit Card
+ORD00683,22-08-2025,CUST0086,Customer_0083,Home & Kitchen,Water Bottle,2.00,"? 2,280.45","? 4,560.90",? 651.09,West,Maharashtra,Credit Card
+ORD00684,12-06-2025,CUST0295,Customer_0065,Clothing,Kurta,2.00,? 674.14,"? 1,348.28",? 185.10,South,Karnataka,Credit Card
+ORD00685,17-03-2025,CUST0191,Customer_0230,Clothing,Sneakers,3.00,"? 3,429.67","? 10,289.01","? 3,031.17",West,Maharashtra,Net Banking
+ORD00686,13-09-2025,CUST0075,Customer_0235,Home & Kitchen,Bedsheet,1.00,"? 2,576.23","? 2,576.23",? 294.54,West,Gujarat,Net Banking
+ORD00687,29-05-2025,CUST0294,Customer_0076,Books,Children Book,3.00,? 931.95,"? 2,795.85",? 671.79,East,West Bengal,Cash on Delivery
+ORD00688,13-03-2025,CUST0283,Customer_0060,Home & Kitchen,Bedsheet,4.00,"? 5,426.00","? 21,704.00","? 1,854.72",West,Gujarat,Net Banking
+ORD00689,29-01-2025,CUST0100,Customer_0299,Clothing,Sneakers,3.00,? 595.94,"? 1,787.82",? 230.40,North,Uttar Pradesh,Debit Card
+ORD00690,17-08-2025,CUST0045,Customer_0263,Clothing,Kurta,1.00,"? 2,022.92","? 2,022.92",? 248.37,West,Maharashtra,Debit Card
+ORD00691,07-08-2025,CUST0190,Customer_0198,Books,Data Science Book,3.00,? 805.97,"? 2,417.91",? 199.92,West,Maharashtra,Debit Card
+ORD00692,14-02-2025,CUST0111,Customer_0228,Home & Kitchen,Cookware Set,4.00,"? 5,277.23","? 21,108.92","? 5,421.00",South,Tamil Nadu,Debit Card
+ORD00693,28-10-2025,CUST0045,Customer_0074,Clothing,Jeans,4.00,? 746.62,"? 2,986.48",? 438.15,North,Rajasthan,Net Banking
+ORD00694,15-02-2025,CUST0004,Customer_0210,Home & Kitchen,Bedsheet,5.00,"? 4,597.66","? 22,988.30","? 3,935.44",West,Gujarat,Net Banking
+ORD00695,15-07-2025,CUST0149,Customer_0284,Beauty,Perfume,2.00,? 587.12,"? 1,174.24",? 104.85,South,Karnataka,Debit Card
+ORD00696,26-08-2025,CUST0115,Customer_0014,Books,Novel,4.00,"? 1,072.81","? 4,291.24",? 488.71,South,Tamil Nadu,Debit Card
+ORD00697,09-09-2025,CUST0126,Customer_0015,Beauty,Face Wash,3.00,"? 1,130.32","? 3,390.96",? 841.77,West,Gujarat,Cash on Delivery
+ORD00698,12-08-2025,CUST0133,Customer_0244,Electronics,Wireless Headphones,5.00,"? 6,025.59","? 30,127.95","? 4,883.88",East,West Bengal,Net Banking
+ORD00699,16-03-2025,CUST0164,Customer_0237,Electronics,Smart Watch,2.00,"? 7,189.03","? 14,378.06","? 2,280.72",South,Tamil Nadu,UPI
+ORD00700,02-07-2025,CUST0025,Customer_0149,Home & Kitchen,Bedsheet,4.00,"? 3,908.42","? 15,633.68","? 3,072.25",East,West Bengal,UPI
+ORD00701,03-11-2025,CUST0086,Customer_0279,Books,Data Science Book,2.00,"? 1,411.74","? 2,823.48",? 767.81,North,Delhi,Debit Card
+ORD00702,30-06-2025,CUST0074,Customer_0007,Home & Kitchen,Mixer Grinder,1.00,"? 3,322.92","? 3,322.92",? 644.64,East,West Bengal,Debit Card
+ORD00703,25-03-2025,CUST0053,Customer_0112,Beauty,Shampoo,3.00,"? 2,314.13","? 6,942.39","? 1,324.22",North,Rajasthan,Credit Card
+ORD00704,09-02-2025,CUST0060,Customer_0068,Books,Novel,4.00,? 909.81,"? 3,639.24",? 675.06,West,Gujarat,Debit Card
+ORD00705,02-11-2025,CUST0268,Customer_0176,Home & Kitchen,Mixer Grinder,4.00,"? 5,365.93","? 21,463.72","? 5,069.23",South,Karnataka,UPI
+ORD00706,14-03-2025,CUST0117,Customer_0158,Electronics,Smart Watch,2.00,"? 10,353.37","? 20,706.74","? 2,612.47",North,Delhi,UPI
+ORD00707,05-09-2025,CUST0221,Customer_0022,Beauty,Shampoo,1.00,? 194.20,? 194.20,? 20.14,West,Gujarat,Net Banking
+ORD00708,10-05-2025,CUST0023,Customer_0034,Books,Data Science Book,4.00,? 346.22,"? 1,384.88",? 314.19,West,Maharashtra,UPI
+ORD00709,05-04-2025,CUST0180,Customer_0015,Electronics,Wireless Headphones,5.00,"? 10,863.51","? 54,317.55","? 6,084.79",North,Delhi,Debit Card
+ORD00710,14-09-2025,CUST0124,Customer_0259,Books,Children Book,3.00,? 414.92,"? 1,244.76",? 118.29,East,West Bengal,Net Banking
+ORD00711,29-03-2025,CUST0276,Customer_0003,Electronics,Wireless Headphones,2.00,"? 11,589.03","? 23,178.06","? 6,567.06",North,Delhi,Net Banking
+ORD00712,11-12-2025,CUST0055,Customer_0093,Beauty,Moisturizer,5.00,? 585.05,"? 2,925.25",? 865.54,East,West Bengal,Cash on Delivery
+ORD00713,10-06-2025,CUST0064,Customer_0239,Clothing,T-Shirt,4.00,? 661.11,"? 2,644.44",? 513.92,North,Delhi,Cash on Delivery
+ORD00714,12-02-2025,CUST0168,Customer_0253,Home & Kitchen,Coffee Maker,5.00,"? 4,402.29","? 22,011.45","? 3,624.23",South,Tamil Nadu,Cash on Delivery
+ORD00715,28-07-2025,CUST0149,Customer_0220,Books,Self Help Book,4.00,? 522.69,"? 2,090.76",? 561.35,South,Tamil Nadu,Cash on Delivery
+ORD00716,09-09-2025,CUST0054,Customer_0203,Home & Kitchen,Cookware Set,1.00,"? 5,992.66","? 5,992.66","? 1,168.48",South,Karnataka,UPI
+ORD00717,30-10-2025,CUST0053,Customer_0087,Electronics,Wireless Headphones,4.00,"? 5,107.18","? 20,428.72","? 3,268.93",South,Karnataka,Credit Card
+ORD00718,26-07-2025,CUST0063,Customer_0120,Home & Kitchen,Cookware Set,5.00,"? 5,103.17","? 25,515.85","? 6,112.17",North,Delhi,Debit Card
+ORD00719,08-12-2025,CUST0208,Customer_0249,Books,Children Book,4.00,? 737.56,"? 2,950.24",? 417.03,South,Tamil Nadu,Cash on Delivery
+ORD00720,29-04-2025,CUST0069,Customer_0016,Electronics,Wireless Headphones,3.00,"? 6,127.43","? 18,382.29","? 4,454.32",West,Gujarat,UPI
+ORD00721,14-12-2025,CUST0168,Customer_0079,Beauty,Moisturizer,2.00,"? 1,049.19","? 2,098.38",? 455.00,West,Maharashtra,UPI
+ORD00722,05-12-2025,CUST0255,Customer_0252,Electronics,USB Cable,4.00,"? 2,822.22","? 11,288.88","? 1,552.97",North,Uttar Pradesh,Debit Card
+ORD00723,02-03-2025,CUST0197,Customer_0231,Books,Data Science Book,1.00,"? 1,784.67","? 1,784.67",? 477.64,West,Maharashtra,Cash on Delivery
+ORD00724,04-12-2025,CUST0156,Customer_0085,Beauty,Perfume,1.00,? 565.64,? 565.64,? 98.85,West,Maharashtra,Debit Card
+ORD00725,09-09-2025,CUST0284,Customer_0277,Beauty,Hair Dryer,1.00,"? 1,486.81","? 1,486.81",? 272.62,North,Uttar Pradesh,Net Banking
+ORD00726,30-10-2025,CUST0194,Customer_0181,Clothing,Hoodie,4.00,"? 1,142.85","? 4,571.40",? 688.02,West,Maharashtra,UPI
+ORD00727,28-06-2025,CUST0299,Customer_0014,Books,Data Science Book,2.00,"? 1,530.94","? 3,061.88",? 501.31,West,Maharashtra,Cash on Delivery
+ORD00728,05-12-2025,CUST0126,Customer_0127,Home & Kitchen,Mixer Grinder,4.00,"? 2,269.80","? 9,079.20","? 2,020.83",East,West Bengal,Net Banking
+ORD00729,28-03-2025,CUST0011,Customer_0276,Electronics,Bluetooth Speaker,3.00,"? 1,816.42","? 5,449.26",? 480.75,West,Gujarat,Cash on Delivery
+ORD00730,29-08-2025,CUST0012,Customer_0163,Books,Cooking Book,3.00,? 183.66,? 550.98,? 113.21,North,Rajasthan,Debit Card
+ORD00731,12-12-2025,CUST0106,Customer_0173,Books,Cooking Book,4.00,? 315.09,"? 1,260.36",? 240.24,West,Gujarat,Debit Card
+ORD00732,14-04-2025,CUST0255,Customer_0039,Clothing,Sneakers,3.00,"? 3,402.17","? 10,206.51","? 1,297.22",South,Tamil Nadu,Debit Card
+ORD00733,26-04-2025,CUST0048,Customer_0297,Electronics,Wireless Headphones,5.00,"? 5,123.31","? 25,616.55","? 5,384.86",South,Tamil Nadu,Debit Card
+ORD00734,09-02-2025,CUST0155,Customer_0259,Electronics,Bluetooth Speaker,4.00,"? 2,912.00","? 11,648.00","? 2,041.20",North,Uttar Pradesh,Net Banking
+ORD00735,16-11-2025,CUST0264,Customer_0233,Home & Kitchen,Water Bottle,4.00,"? 2,563.23","? 10,252.92","? 1,227.60",North,Delhi,UPI
+ORD00736,05-12-2025,CUST0240,Customer_0138,Books,Children Book,5.00,? 973.69,"? 4,868.45","? 1,255.89",South,Karnataka,Cash on Delivery
+ORD00737,25-08-2025,CUST0076,Customer_0124,Books,Self Help Book,5.00,? 481.07,"? 2,405.35",? 587.42,West,Maharashtra,Debit Card
+ORD00738,02-02-2025,CUST0105,Customer_0212,Beauty,Moisturizer,3.00,"? 2,171.44","? 6,514.32","? 1,701.65",North,Rajasthan,Credit Card
+ORD00739,18-03-2025,CUST0099,Customer_0015,Home & Kitchen,Mixer Grinder,4.00,"? 1,621.28","? 6,485.12","? 1,655.97",North,Delhi,Debit Card
+ORD00740,05-08-2025,CUST0019,Customer_0104,Beauty,Shampoo,5.00,"? 2,479.54","? 12,397.70","? 1,735.64",North,Uttar Pradesh,UPI
+ORD00741,22-01-2025,CUST0249,Customer_0011,Home & Kitchen,Coffee Maker,5.00,"? 1,261.92","? 6,309.60","? 1,697.97",South,Tamil Nadu,UPI
+ORD00742,28-07-2025,CUST0187,Customer_0047,Home & Kitchen,Cookware Set,1.00,"? 5,428.31","? 5,428.31","? 1,560.62",South,Tamil Nadu,Credit Card
+ORD00743,03-03-2025,CUST0268,Customer_0298,Clothing,Sneakers,5.00,"? 2,650.34","? 13,251.70","? 1,794.25",West,Gujarat,UPI
+ORD00744,27-10-2025,CUST0200,Customer_0121,Clothing,Kurta,3.00,"? 1,353.71","? 4,061.13",? 519.67,West,Gujarat,UPI
+ORD00745,11-05-2025,CUST0029,Customer_0252,Clothing,Sneakers,3.00,"? 1,706.32","? 5,118.96",? 831.50,North,Delhi,UPI
+ORD00746,23-05-2025,CUST0075,Customer_0186,Home & Kitchen,Cookware Set,4.00,"? 4,175.75","? 16,703.00","? 3,966.09",North,Rajasthan,Debit Card
+ORD00747,10-12-2025,CUST0123,Customer_0130,Electronics,USB Cable,1.00,"? 8,442.85","? 8,442.85","? 1,389.96",West,Maharashtra,Debit Card
+ORD00748,21-07-2025,CUST0131,Customer_0155,Electronics,Wireless Headphones,4.00,"? 4,967.42","? 19,869.68","? 5,682.55",North,Delhi,Credit Card
+ORD00749,20-11-2025,CUST0163,Customer_0209,Home & Kitchen,Coffee Maker,2.00,"? 5,516.37","? 11,032.74","? 1,547.76",North,Delhi,UPI
+ORD00750,20-06-2025,CUST0217,Customer_0052,Beauty,Shampoo,4.00,"? 2,327.27","? 9,309.08","? 2,175.22",North,Uttar Pradesh,Net Banking
+ORD00751,08-10-2025,CUST0168,Customer_0233,Electronics,Wireless Headphones,4.00,"? 7,424.33","? 29,697.32","? 7,354.08",East,West Bengal,Credit Card
+ORD00752,18-11-2025,CUST0157,Customer_0161,Beauty,Hair Dryer,1.00,"? 1,091.56","? 1,091.56",? 107.07,South,Karnataka,Credit Card
+ORD00753,13-06-2025,CUST0232,Customer_0245,Clothing,Jeans,5.00,"? 2,494.41","? 12,472.05","? 1,713.03",South,Karnataka,Net Banking
+ORD00754,08-07-2025,CUST0094,Customer_0202,Home & Kitchen,Cookware Set,2.00,? 735.29,"? 1,470.58",? 423.30,South,Tamil Nadu,Net Banking
+ORD00755,28-11-2025,CUST0118,Customer_0046,Clothing,Kurta,1.00,"? 3,253.96","? 3,253.96",? 402.25,West,Maharashtra,Credit Card
+ORD00756,14-05-2025,CUST0077,Customer_0046,Electronics,Bluetooth Speaker,5.00,"? 5,432.39","? 27,161.95","? 3,189.55",North,Rajasthan,Net Banking
+ORD00757,21-08-2025,CUST0254,Customer_0061,Electronics,Smart Watch,5.00,"? 5,504.33","? 27,521.65","? 6,522.19",West,Maharashtra,Credit Card
+ORD00758,09-08-2025,CUST0106,Customer_0111,Home & Kitchen,Bedsheet,4.00,"? 2,446.92","? 9,787.68","? 2,347.83",South,Tamil Nadu,Credit Card
+ORD00759,15-01-2025,CUST0149,Customer_0135,Beauty,Shampoo,4.00,"? 2,012.29","? 8,049.16","? 1,737.73",South,Karnataka,Credit Card
+ORD00760,10-03-2025,CUST0166,Customer_0204,Home & Kitchen,Mixer Grinder,1.00,? 309.34,? 309.34,? 73.29,North,Uttar Pradesh,Cash on Delivery
+ORD00761,31-01-2025,CUST0027,Customer_0171,Books,Self Help Book,1.00,? 307.21,? 307.21,? 56.41,South,Tamil Nadu,Debit Card
+ORD00762,14-11-2025,CUST0196,Customer_0155,Books,Cooking Book,1.00,? 568.53,? 568.53,? 129.44,West,Maharashtra,Credit Card
+ORD00763,28-03-2025,CUST0258,Customer_0253,Books,Data Science Book,5.00,? 445.96,"? 2,229.80",? 609.04,West,Maharashtra,Credit Card
+ORD00764,14-05-2025,CUST0060,Customer_0161,Electronics,Wireless Headphones,5.00,"? 5,478.69","? 27,393.45","? 8,088.56",East,West Bengal,Cash on Delivery
+ORD00765,15-05-2025,CUST0136,Customer_0265,Home & Kitchen,Bedsheet,4.00,"? 1,876.82","? 7,507.28","? 1,320.31",East,West Bengal,Credit Card
+ORD00766,03-12-2025,CUST0226,Customer_0028,Home & Kitchen,Mixer Grinder,2.00,"? 3,445.13","? 6,890.26",? 776.51,North,Uttar Pradesh,Credit Card
+ORD00767,28-12-2025,CUST0240,Customer_0224,Clothing,T-Shirt,4.00,"? 1,132.72","? 4,530.88","? 1,354.48",West,Maharashtra,Cash on Delivery
+ORD00768,15-10-2025,CUST0249,Customer_0235,Electronics,Power Bank,3.00,"? 11,871.41","? 35,614.23","? 3,730.52",North,Uttar Pradesh,Credit Card
+ORD00769,26-05-2025,CUST0093,Customer_0087,Electronics,USB Cable,1.00,"? 2,842.94","? 2,842.94",? 741.91,East,West Bengal,Net Banking
+ORD00770,03-01-2025,CUST0270,Customer_0293,Books,Self Help Book,5.00,"? 1,796.71","? 8,983.55","? 1,541.69",North,Delhi,UPI
+ORD00771,14-01-2025,CUST0146,Customer_0063,Clothing,Kurta,1.00,"? 3,139.58","? 3,139.58",? 509.19,North,Uttar Pradesh,UPI
+ORD00772,29-12-2025,CUST0246,Customer_0233,Home & Kitchen,Bedsheet,1.00,? 716.11,? 716.11,? 150.90,South,Karnataka,UPI
+ORD00773,16-06-2025,CUST0292,Customer_0067,Home & Kitchen,Mixer Grinder,5.00,"? 5,717.65","? 28,588.25","? 7,716.58",West,Maharashtra,Debit Card
+ORD00774,05-11-2025,CUST0196,Customer_0048,Home & Kitchen,Cookware Set,1.00,"? 3,396.15","? 3,396.15",? 462.34,West,Maharashtra,Credit Card
+ORD00775,25-03-2025,CUST0199,Customer_0207,Beauty,Moisturizer,1.00,"? 2,153.01","? 2,153.01",? 478.78,West,Gujarat,Credit Card
+ORD00776,08-06-2025,CUST0068,Customer_0184,Electronics,Wireless Headphones,4.00,"? 9,712.65","? 38,850.60","? 10,219.71",South,Tamil Nadu,Net Banking
+ORD00777,01-09-2025,CUST0138,Customer_0289,Clothing,Sneakers,4.00,"? 3,133.32","? 12,533.28","? 2,169.20",North,Uttar Pradesh,Cash on Delivery
+ORD00778,17-02-2025,CUST0021,Customer_0263,Home & Kitchen,Bedsheet,4.00,"? 3,876.45","? 15,505.80","? 4,560.56",South,Karnataka,Credit Card
+ORD00779,26-09-2025,CUST0043,Customer_0149,Clothing,Kurta,5.00,"? 2,314.59","? 11,572.95","? 2,039.36",North,Uttar Pradesh,Cash on Delivery
+ORD00780,03-06-2025,CUST0128,Customer_0268,Home & Kitchen,Cookware Set,2.00,"? 4,184.81","? 8,369.62","? 1,213.64",South,Karnataka,UPI
+ORD00781,19-09-2025,CUST0218,Customer_0212,Books,Novel,1.00,? 997.13,? 997.13,? 181.70,West,Gujarat,Net Banking
+ORD00782,15-09-2025,CUST0009,Customer_0059,Home & Kitchen,Cookware Set,3.00,"? 3,617.02","? 10,851.06","? 1,296.72",East,West Bengal,Credit Card
+ORD00783,27-12-2025,CUST0153,Customer_0161,Beauty,Hair Dryer,1.00,"? 1,128.19","? 1,128.19",? 269.98,West,Maharashtra,Cash on Delivery
+ORD00784,06-04-2025,CUST0109,Customer_0095,Books,Novel,3.00,"? 1,745.09","? 5,235.27","? 1,279.22",South,Tamil Nadu,Net Banking
+ORD00785,03-01-2025,CUST0203,Customer_0060,Home & Kitchen,Coffee Maker,4.00,"? 3,322.66","? 13,290.64","? 1,565.40",West,Gujarat,Cash on Delivery
+ORD00786,05-06-2025,CUST0185,Customer_0203,Beauty,Moisturizer,5.00,"? 1,855.89","? 9,279.45",? 921.26,North,Rajasthan,Credit Card
+ORD00787,23-12-2025,CUST0097,Customer_0014,Electronics,Smart Watch,1.00,"? 9,883.63","? 9,883.63","? 1,836.83",North,Delhi,Credit Card
+ORD00788,04-06-2025,CUST0238,Customer_0076,Clothing,Kurta,5.00,? 910.93,"? 4,554.65",? 787.10,North,Rajasthan,UPI
+ORD00789,30-08-2025,CUST0011,Customer_0231,Clothing,Sneakers,4.00,"? 3,384.37","? 13,537.48","? 1,805.61",South,Karnataka,Debit Card
+ORD00790,22-02-2025,CUST0222,Customer_0213,Books,Cooking Book,1.00,? 700.85,? 700.85,? 169.72,North,Rajasthan,Net Banking
+ORD00791,06-09-2025,CUST0263,Customer_0250,Books,Self Help Book,1.00,? 954.37,? 954.37,? 226.32,South,Tamil Nadu,Net Banking
+ORD00792,02-02-2025,CUST0138,Customer_0214,Electronics,Power Bank,5.00,"? 4,132.28","? 20,661.40","? 2,184.47",North,Rajasthan,Net Banking
+ORD00793,28-05-2025,CUST0099,Customer_0241,Home & Kitchen,Bedsheet,4.00,? 369.64,"? 1,478.56",? 260.79,North,Uttar Pradesh,Net Banking
+ORD00794,03-12-2025,CUST0240,Customer_0068,Clothing,Hoodie,5.00,"? 3,031.05","? 15,155.25","? 3,623.00",East,West Bengal,Cash on Delivery
+ORD00795,24-03-2025,CUST0107,Customer_0145,Beauty,Face Wash,4.00,"? 2,029.42","? 8,117.68","? 1,840.70",East,West Bengal,Credit Card
+ORD00796,21-02-2025,CUST0213,Customer_0253,Clothing,Hoodie,2.00,"? 2,238.40","? 4,476.80",? 589.32,North,Delhi,Net Banking
+ORD00797,02-07-2025,CUST0082,Customer_0090,Electronics,USB Cable,3.00,"? 10,630.42","? 31,891.26","? 2,775.60",West,Maharashtra,UPI
+ORD00798,03-03-2025,CUST0288,Customer_0115,Home & Kitchen,Cookware Set,1.00,"? 3,800.99","? 3,800.99",? 519.67,North,Rajasthan,Debit Card
+ORD00799,19-03-2025,CUST0264,Customer_0054,Home & Kitchen,Coffee Maker,5.00,"? 1,788.07","? 8,940.35","? 2,537.80",West,Maharashtra,Cash on Delivery
+ORD00800,09-11-2025,CUST0053,Customer_0288,Beauty,Face Wash,1.00,"? 1,986.88","? 1,986.88",? 380.70,West,Gujarat,Credit Card
+ORD00801,30-05-2025,CUST0227,Customer_0260,Electronics,Power Bank,3.00,"? 2,305.87","? 6,917.61","? 1,668.26",North,Delhi,UPI
+ORD00802,04-03-2025,CUST0104,Customer_0225,Clothing,Kurta,3.00,"? 2,921.31","? 8,763.93","? 2,184.22",East,West Bengal,UPI
+ORD00803,29-03-2025,CUST0044,Customer_0137,Clothing,Hoodie,3.00,"? 1,217.63","? 3,652.89",? 866.99,North,Uttar Pradesh,Cash on Delivery
+ORD00804,29-09-2025,CUST0216,Customer_0117,Home & Kitchen,Mixer Grinder,2.00,"? 4,580.94","? 9,161.88","? 2,349.01",North,Delhi,Cash on Delivery
+ORD00805,05-07-2025,CUST0016,Customer_0227,Beauty,Shampoo,5.00,"? 2,017.33","? 10,086.65","? 2,515.95",North,Uttar Pradesh,Net Banking
+ORD00806,26-03-2025,CUST0223,Customer_0032,Electronics,Power Bank,3.00,"? 4,120.25","? 12,360.75","? 3,053.38",West,Gujarat,Credit Card
+ORD00807,03-08-2025,CUST0206,Customer_0284,Books,Data Science Book,5.00,"? 1,754.89","? 8,774.45","? 2,094.82",West,Maharashtra,Debit Card
+ORD00808,09-11-2025,CUST0076,Customer_0207,Home & Kitchen,Cookware Set,3.00,"? 5,426.20","? 16,278.60","? 3,608.21",West,Maharashtra,Net Banking
+ORD00809,29-11-2025,CUST0208,Customer_0102,Books,Data Science Book,3.00,"? 1,614.66","? 4,843.98",? 477.33,North,Uttar Pradesh,Net Banking
+ORD00810,04-10-2025,CUST0146,Customer_0110,Home & Kitchen,Coffee Maker,2.00,"? 3,242.70","? 6,485.40","? 1,248.88",North,Rajasthan,Debit Card
+ORD00811,04-10-2025,CUST0133,Customer_0124,Books,Data Science Book,2.00,? 188.65,? 377.30,? 90.49,East,West Bengal,Net Banking
+ORD00812,17-09-2025,CUST0182,Customer_0064,Electronics,Wireless Headphones,3.00,"? 3,487.20","? 10,461.60","? 2,578.19",West,Maharashtra,UPI
+ORD00813,21-08-2025,CUST0174,Customer_0121,Beauty,Hair Dryer,5.00,"? 1,881.62","? 9,408.10","? 1,923.31",South,Tamil Nadu,Net Banking
+ORD00814,08-12-2025,CUST0294,Customer_0072,Books,Cooking Book,3.00,? 643.68,"? 1,931.04",? 375.25,North,Delhi,Credit Card
+ORD00815,04-07-2025,CUST0233,Customer_0051,Electronics,Smart Watch,5.00,"? 7,197.24","? 35,986.20","? 8,512.93",East,West Bengal,Cash on Delivery
+ORD00816,08-03-2025,CUST0244,Customer_0110,Electronics,Power Bank,1.00,"? 5,386.20","? 5,386.20",? 523.41,West,Gujarat,Net Banking
+ORD00817,22-11-2025,CUST0217,Customer_0226,Beauty,Perfume,3.00,"? 1,523.11","? 4,569.33","? 1,101.11",North,Rajasthan,Cash on Delivery
+ORD00818,31-12-2025,CUST0235,Customer_0067,Clothing,Sneakers,5.00,? 706.80,"? 3,534.00",? 953.90,South,Karnataka,UPI
+ORD00819,22-03-2025,CUST0287,Customer_0190,Clothing,T-Shirt,4.00,? 404.34,"? 1,617.36",? 343.45,North,Uttar Pradesh,Cash on Delivery
+ORD00820,21-01-2025,CUST0268,Customer_0079,Electronics,Wireless Headphones,3.00,"? 7,075.29","? 21,225.87","? 3,432.71",West,Gujarat,Debit Card
+ORD00821,15-03-2025,CUST0073,Customer_0216,Home & Kitchen,Coffee Maker,4.00,? 410.87,"? 1,643.48",? 470.20,South,Tamil Nadu,Debit Card
+ORD00822,08-09-2025,CUST0002,Customer_0063,Home & Kitchen,Water Bottle,2.00,"? 4,959.97","? 9,919.94","? 1,554.48",North,Delhi,UPI
+ORD00823,20-08-2025,CUST0173,Customer_0194,Beauty,Perfume,5.00,? 877.80,"? 4,389.00","? 1,156.86",North,Uttar Pradesh,Net Banking
+ORD00824,19-08-2025,CUST0230,Customer_0077,Clothing,Hoodie,5.00,"? 2,336.67","? 11,683.35","? 1,164.24",South,Karnataka,Net Banking
+ORD00825,22-07-2025,CUST0174,Customer_0277,Books,Novel,4.00,? 534.16,"? 2,136.64",? 621.29,North,Rajasthan,Cash on Delivery
+ORD00826,20-10-2025,CUST0159,Customer_0288,Home & Kitchen,Coffee Maker,2.00,"? 4,316.45","? 8,632.90","? 1,913.58",West,Gujarat,UPI
+ORD00827,01-09-2025,CUST0258,Customer_0010,Clothing,T-Shirt,5.00,"? 1,969.61","? 9,848.05","? 2,214.00",West,Maharashtra,Net Banking
+ORD00828,06-05-2025,CUST0297,Customer_0228,Clothing,T-Shirt,3.00,"? 2,817.62","? 8,452.86","? 2,176.80",West,Maharashtra,Net Banking
+ORD00829,12-01-2025,CUST0175,Customer_0224,Home & Kitchen,Mixer Grinder,5.00,? 508.66,"? 2,543.30",? 435.63,North,Rajasthan,Net Banking
+ORD00830,20-02-2025,CUST0278,Customer_0087,Home & Kitchen,Bedsheet,3.00,? 773.39,"? 2,320.17",? 259.13,North,Rajasthan,Debit Card
+ORD00831,14-12-2025,CUST0087,Customer_0031,Electronics,USB Cable,3.00,"? 11,449.89","? 34,349.67","? 10,011.11",South,Karnataka,Credit Card
+ORD00832,13-06-2025,CUST0073,Customer_0212,Electronics,Bluetooth Speaker,3.00,"? 4,984.31","? 14,952.93","? 2,044.75",West,Maharashtra,UPI
+ORD00833,28-10-2025,CUST0122,Customer_0253,Electronics,USB Cable,2.00,"? 9,149.54","? 18,299.08","? 4,492.90",North,Delhi,Cash on Delivery
+ORD00834,11-10-2025,CUST0209,Customer_0034,Electronics,Power Bank,1.00,"? 4,160.87","? 4,160.87",? 359.33,South,Tamil Nadu,Credit Card
+ORD00835,12-12-2025,CUST0052,Customer_0127,Electronics,USB Cable,5.00,"? 11,579.96","? 57,899.80","? 12,931.41",South,Tamil Nadu,Credit Card
+ORD00836,22-11-2025,CUST0257,Customer_0105,Home & Kitchen,Mixer Grinder,4.00,? 732.47,"? 2,929.88",? 475.01,North,Rajasthan,Credit Card
+ORD00837,01-01-2025,CUST0238,Customer_0149,Clothing,Jeans,5.00,"? 1,745.57","? 8,727.85",? 699.27,North,Rajasthan,Cash on Delivery
+ORD00838,20-11-2025,CUST0109,Customer_0300,Home & Kitchen,Water Bottle,4.00,"? 5,995.64","? 23,982.56","? 3,402.85",South,Tamil Nadu,Credit Card
+ORD00839,24-12-2025,CUST0063,Customer_0072,Books,Children Book,3.00,? 298.03,? 894.09,? 268.00,West,Gujarat,Cash on Delivery
+ORD00840,29-12-2025,CUST0232,Customer_0140,Clothing,Jeans,3.00,"? 2,332.54","? 6,997.62","? 1,579.37",East,West Bengal,Debit Card
+ORD00841,18-06-2025,CUST0009,Customer_0069,Home & Kitchen,Coffee Maker,4.00,"? 5,764.21","? 23,056.84","? 4,932.62",North,Delhi,UPI
+ORD00842,23-12-2025,CUST0251,Customer_0202,Electronics,USB Cable,4.00,"? 6,891.59","? 27,566.36","? 2,697.44",South,Karnataka,UPI
+ORD00843,30-06-2025,CUST0193,Customer_0184,Books,Cooking Book,4.00,"? 1,259.21","? 5,036.84",? 599.29,West,Maharashtra,UPI
+ORD00844,16-08-2025,CUST0005,Customer_0114,Electronics,Wireless Headphones,3.00,"? 11,266.85","? 33,800.55","? 8,343.75",North,Uttar Pradesh,Debit Card
+ORD00845,24-04-2025,CUST0120,Customer_0253,Clothing,Hoodie,5.00,"? 2,300.76","? 11,503.80","? 1,013.43",West,Gujarat,Cash on Delivery
+ORD00846,23-11-2025,CUST0203,Customer_0057,Books,Data Science Book,1.00,? 473.54,? 473.54,? 97.17,North,Delhi,Cash on Delivery
+ORD00847,05-11-2025,CUST0290,Customer_0090,Clothing,T-Shirt,5.00,"? 2,450.96","? 12,254.80","? 2,566.11",North,Delhi,UPI
+ORD00848,25-09-2025,CUST0141,Customer_0099,Clothing,T-Shirt,5.00,"? 3,037.53","? 15,187.65","? 4,529.40",South,Tamil Nadu,Net Banking
+ORD00849,02-01-2025,CUST0219,Customer_0027,Books,Data Science Book,5.00,"? 1,607.12","? 8,035.60","? 1,407.52",South,Tamil Nadu,Cash on Delivery
+ORD00850,05-07-2025,CUST0265,Customer_0023,Home & Kitchen,Mixer Grinder,5.00,"? 2,932.87","? 14,664.35","? 1,324.66",West,Gujarat,Cash on Delivery
+ORD00851,10-04-2025,CUST0172,Customer_0042,Books,Children Book,3.00,? 158.51,? 475.53,? 122.54,North,Uttar Pradesh,Credit Card
+ORD00852,18-06-2025,CUST0160,Customer_0033,Beauty,Face Wash,2.00,? 612.66,"? 1,225.32",? 105.54,West,Gujarat,Cash on Delivery
+ORD00853,31-08-2025,CUST0123,Customer_0175,Electronics,Wireless Headphones,3.00,"? 3,342.27","? 10,026.81","? 2,614.59",East,West Bengal,Net Banking
+ORD00854,18-02-2025,CUST0229,Customer_0297,Clothing,T-Shirt,5.00,"? 2,282.61","? 11,413.05","? 1,127.81",West,Gujarat,UPI
+ORD00855,22-12-2025,CUST0034,Customer_0066,Electronics,Wireless Headphones,3.00,"? 10,735.96","? 32,207.88","? 9,089.24",North,Rajasthan,Cash on Delivery
+ORD00856,03-02-2025,CUST0053,Customer_0029,Electronics,USB Cable,5.00,"? 7,701.13","? 38,505.65","? 3,522.68",South,Tamil Nadu,Cash on Delivery
+ORD00857,30-04-2025,CUST0006,Customer_0233,Beauty,Perfume,5.00,"? 1,917.11","? 9,585.55","? 1,745.78",West,Gujarat,Cash on Delivery
+ORD00858,12-12-2025,CUST0014,Customer_0233,Books,Children Book,3.00,"? 1,224.02","? 3,672.06",? 558.90,West,Gujarat,Credit Card
+ORD00859,04-02-2025,CUST0100,Customer_0294,Electronics,Smart Watch,1.00,"? 7,344.51","? 7,344.51","? 1,617.41",West,Gujarat,Debit Card
+ORD00860,16-08-2025,CUST0096,Customer_0125,Home & Kitchen,Mixer Grinder,4.00,"? 4,416.58","? 17,666.32","? 4,511.02",North,Rajasthan,UPI
+ORD00861,30-11-2025,CUST0184,Customer_0160,Clothing,Sneakers,5.00,"? 1,694.71","? 8,473.55","? 2,328.10",South,Tamil Nadu,Credit Card
+ORD00862,30-05-2025,CUST0189,Customer_0005,Clothing,Sneakers,3.00,"? 2,230.65","? 6,691.95","? 1,398.73",North,Uttar Pradesh,Credit Card
+ORD00863,14-10-2025,CUST0028,Customer_0217,Electronics,Bluetooth Speaker,5.00,"? 9,920.61","? 49,603.05","? 6,100.66",North,Delhi,Credit Card
+ORD00864,01-09-2025,CUST0240,Customer_0170,Clothing,Sneakers,3.00,? 905.94,"? 2,717.82",? 555.91,West,Gujarat,Debit Card
+ORD00865,23-02-2025,CUST0233,Customer_0022,Books,Cooking Book,4.00,? 692.22,"? 2,768.88",? 355.16,South,Tamil Nadu,UPI
+ORD00866,03-05-2025,CUST0247,Customer_0170,Clothing,Kurta,4.00,"? 2,296.54","? 9,186.16","? 1,149.83",North,Delhi,Credit Card
+ORD00867,16-01-2025,CUST0285,Customer_0059,Electronics,Smart Watch,1.00,"? 1,347.91","? 1,347.91",? 194.00,East,West Bengal,Credit Card
+ORD00868,12-04-2025,CUST0102,Customer_0146,Books,Self Help Book,1.00,"? 1,759.26","? 1,759.26",? 225.48,East,West Bengal,Debit Card
+ORD00869,11-04-2025,CUST0012,Customer_0091,Clothing,Hoodie,5.00,"? 1,087.09","? 5,435.45","? 1,523.79",East,West Bengal,UPI
+ORD00870,18-04-2025,CUST0157,Customer_0234,Clothing,Jeans,1.00,"? 1,382.83","? 1,382.83",? 223.08,North,Rajasthan,Debit Card
+ORD00871,08-03-2025,CUST0098,Customer_0099,Clothing,Sneakers,1.00,? 679.18,? 679.18,? 110.84,North,Rajasthan,Debit Card
+ORD00872,12-11-2025,CUST0097,Customer_0275,Home & Kitchen,Bedsheet,2.00,"? 5,545.83","? 11,091.66","? 2,814.06",North,Rajasthan,Debit Card
+ORD00873,18-09-2025,CUST0300,Customer_0251,Clothing,Jeans,3.00,"? 3,093.12","? 9,279.36","? 2,227.10",West,Maharashtra,Cash on Delivery
+ORD00874,27-11-2025,CUST0261,Customer_0192,Books,Cooking Book,2.00,? 989.21,"? 1,978.42",? 384.12,West,Gujarat,Credit Card
+ORD00875,11-09-2025,CUST0243,Customer_0138,Home & Kitchen,Water Bottle,5.00,"? 4,243.43","? 21,217.15","? 3,568.90",East,West Bengal,Net Banking
+ORD00876,20-08-2025,CUST0121,Customer_0203,Electronics,Smart Watch,2.00,"? 10,791.17","? 21,582.34","? 3,179.51",North,Delhi,Cash on Delivery
+ORD00877,13-02-2025,CUST0069,Customer_0044,Books,Data Science Book,3.00,? 569.97,"? 1,709.91",? 304.01,South,Karnataka,Debit Card
+ORD00878,22-06-2025,CUST0219,Customer_0231,Clothing,Kurta,4.00,"? 1,939.24","? 7,756.96","? 1,358.64",West,Maharashtra,Debit Card
+ORD00879,02-04-2025,CUST0227,Customer_0120,Beauty,Moisturizer,3.00,"? 1,048.57","? 3,145.71",? 698.28,East,West Bengal,Debit Card
+ORD00880,26-11-2025,CUST0041,Customer_0142,Electronics,Smart Watch,5.00,"? 6,397.10","? 31,985.50","? 3,251.33",South,Tamil Nadu,UPI
+ORD00881,11-04-2025,CUST0169,Customer_0129,Home & Kitchen,Bedsheet,5.00,"? 1,401.76","? 7,008.80","? 1,709.77",West,Maharashtra,Debit Card
+ORD00882,05-01-2025,CUST0154,Customer_0145,Clothing,Hoodie,5.00,"? 3,219.62","? 16,098.10","? 4,061.36",South,Karnataka,Cash on Delivery
+ORD00883,18-03-2025,CUST0204,Customer_0117,Beauty,Shampoo,4.00,"? 1,687.11","? 6,748.44","? 1,613.78",West,Maharashtra,Credit Card
+ORD00884,10-10-2025,CUST0240,Customer_0237,Beauty,Moisturizer,5.00,"? 1,529.46","? 7,647.30","? 1,944.11",North,Delhi,Debit Card
+ORD00885,19-08-2025,CUST0286,Customer_0016,Clothing,Hoodie,4.00,? 970.67,"? 3,882.68",? 429.30,North,Rajasthan,Credit Card
+ORD00886,01-07-2025,CUST0174,Customer_0116,Home & Kitchen,Cookware Set,4.00,"? 4,909.81","? 19,639.24","? 3,410.52",West,Maharashtra,Cash on Delivery
+ORD00887,18-10-2025,CUST0017,Customer_0072,Books,Self Help Book,3.00,"? 1,118.48","? 3,355.44",? 989.83,South,Tamil Nadu,Debit Card
+ORD00888,20-07-2025,CUST0033,Customer_0274,Books,Cooking Book,4.00,? 486.94,"? 1,947.76",? 236.53,North,Rajasthan,UPI
+ORD00889,23-02-2025,CUST0284,Customer_0091,Home & Kitchen,Coffee Maker,3.00,? 786.14,"? 2,358.42",? 617.49,North,Uttar Pradesh,Net Banking
+ORD00890,17-07-2025,CUST0146,Customer_0106,Beauty,Shampoo,2.00,? 617.65,"? 1,235.30",? 177.94,West,Maharashtra,Net Banking
+ORD00891,06-01-2025,CUST0088,Customer_0168,Electronics,Power Bank,1.00,"? 4,739.50","? 4,739.50",? 786.96,North,Uttar Pradesh,UPI
+ORD00892,19-07-2025,CUST0106,Customer_0067,Clothing,Jeans,4.00,"? 2,678.06","? 10,712.24","? 1,586.98",North,Rajasthan,Cash on Delivery
+ORD00893,17-12-2025,CUST0235,Customer_0142,Clothing,Jeans,5.00,? 949.51,"? 4,747.55",? 387.58,South,Tamil Nadu,Credit Card
+ORD00894,07-05-2025,CUST0270,Customer_0169,Beauty,Hair Dryer,4.00,"? 1,571.39","? 6,285.56","? 1,718.68",West,Gujarat,Cash on Delivery
+ORD00895,22-08-2025,CUST0178,Customer_0153,Beauty,Perfume,1.00,? 826.59,? 826.59,? 177.61,West,Maharashtra,Credit Card
+ORD00896,10-08-2025,CUST0235,Customer_0197,Beauty,Shampoo,2.00,"? 2,264.92","? 4,529.84","? 1,058.51",North,Delhi,UPI
+ORD00897,22-03-2025,CUST0141,Customer_0276,Beauty,Moisturizer,2.00,"? 2,231.02","? 4,462.04","? 1,011.39",West,Maharashtra,UPI
+ORD00898,11-10-2025,CUST0063,Customer_0189,Clothing,T-Shirt,4.00,"? 3,475.65","? 13,902.60","? 3,422.64",North,Uttar Pradesh,Net Banking
+ORD00899,17-04-2025,CUST0260,Customer_0023,Home & Kitchen,Cookware Set,4.00,"? 1,197.82","? 4,791.28",? 411.47,North,Rajasthan,Cash on Delivery
+ORD00900,23-07-2025,CUST0020,Customer_0006,Beauty,Moisturizer,4.00,"? 2,161.07","? 8,644.28",? 909.64,East,West Bengal,Credit Card
+ORD00901,12-02-2025,CUST0281,Customer_0125,Home & Kitchen,Cookware Set,4.00,"? 2,902.80","? 11,611.20","? 1,287.17",North,Uttar Pradesh,Debit Card
+ORD00902,01-04-2025,CUST0151,Customer_0064,Clothing,Sneakers,1.00,"? 2,242.36","? 2,242.36",? 545.16,South,Karnataka,Credit Card
+ORD00903,03-07-2025,CUST0092,Customer_0111,Electronics,Wireless Headphones,3.00,"? 2,265.21","? 6,795.63","? 1,878.25",West,Maharashtra,Net Banking
+ORD00904,25-09-2025,CUST0053,Customer_0200,Clothing,Hoodie,1.00,"? 2,976.80","? 2,976.80",? 528.91,North,Uttar Pradesh,Net Banking
+ORD00905,08-05-2025,CUST0192,Customer_0123,Electronics,Smart Watch,4.00,"? 9,321.81","? 37,287.24","? 3,732.64",West,Maharashtra,Cash on Delivery
+ORD00906,15-12-2025,CUST0033,Customer_0113,Electronics,Wireless Headphones,3.00,"? 9,936.06","? 29,808.18","? 7,610.72",West,Maharashtra,Credit Card
+ORD00907,17-06-2025,CUST0166,Customer_0288,Clothing,Jeans,4.00,"? 1,940.00","? 7,760.00","? 1,687.24",West,Maharashtra,Net Banking
+ORD00908,24-02-2025,CUST0183,Customer_0166,Beauty,Shampoo,1.00,? 696.16,? 696.16,? 57.99,North,Rajasthan,Debit Card
+ORD00909,03-02-2025,CUST0143,Customer_0189,Electronics,Wireless Headphones,2.00,"? 5,775.92","? 11,551.84","? 1,095.26",North,Rajasthan,Credit Card
+ORD00910,22-02-2025,CUST0275,Customer_0292,Beauty,Shampoo,5.00,"? 1,324.00","? 6,620.00",? 896.53,South,Tamil Nadu,UPI
+ORD00911,22-12-2025,CUST0069,Customer_0171,Books,Self Help Book,4.00,"? 1,268.54","? 5,074.16","? 1,115.19",East,West Bengal,Debit Card
+ORD00912,27-10-2025,CUST0230,Customer_0196,Beauty,Hair Dryer,3.00,? 191.47,? 574.41,? 126.90,West,Gujarat,Credit Card
+ORD00913,05-03-2025,CUST0159,Customer_0122,Books,Cooking Book,2.00,? 185.00,? 370.00,? 91.24,West,Maharashtra,Net Banking
+ORD00914,01-06-2025,CUST0104,Customer_0078,Electronics,Power Bank,2.00,"? 4,807.02","? 9,614.04","? 1,201.42",West,Maharashtra,UPI
+ORD00915,12-06-2025,CUST0021,Customer_0267,Clothing,Kurta,3.00,? 729.65,"? 2,188.95",? 487.20,North,Uttar Pradesh,Debit Card
+ORD00916,16-04-2025,CUST0277,Customer_0028,Electronics,Smart Watch,3.00,"? 4,441.38","? 13,324.14","? 3,415.24",North,Delhi,Credit Card
+ORD00917,15-08-2025,CUST0004,Customer_0034,Books,Cooking Book,5.00,? 680.70,"? 3,403.50",? 324.68,North,Rajasthan,Credit Card
+ORD00918,30-03-2025,CUST0282,Customer_0105,Electronics,Smart Watch,2.00,"? 1,943.95","? 3,887.90",? 745.05,South,Karnataka,Cash on Delivery
+ORD00919,06-05-2025,CUST0218,Customer_0091,Beauty,Hair Dryer,2.00,"? 1,845.93","? 3,691.86",? 497.56,South,Tamil Nadu,Debit Card
+ORD00920,04-09-2025,CUST0041,Customer_0185,Books,Cooking Book,2.00,? 598.57,"? 1,197.14",? 195.25,North,Uttar Pradesh,Cash on Delivery
+ORD00921,10-08-2025,CUST0080,Customer_0247,Beauty,Face Wash,5.00,"? 1,582.08","? 7,910.40","? 1,958.81",North,Rajasthan,Cash on Delivery
+ORD00922,11-10-2025,CUST0090,Customer_0132,Electronics,Power Bank,5.00,"? 6,677.77","? 33,388.85","? 6,076.88",South,Tamil Nadu,Cash on Delivery
+ORD00923,06-02-2025,CUST0171,Customer_0070,Home & Kitchen,Cookware Set,5.00,"? 3,734.65","? 18,673.25","? 2,297.88",North,Rajasthan,Credit Card
+ORD00924,11-07-2025,CUST0252,Customer_0208,Electronics,Power Bank,5.00,"? 8,899.24","? 44,496.20","? 12,764.30",West,Maharashtra,Debit Card
+ORD00925,29-10-2025,CUST0037,Customer_0210,Beauty,Face Wash,3.00,"? 1,656.46","? 4,969.38","? 1,482.58",North,Uttar Pradesh,UPI
+ORD00926,11-05-2025,CUST0179,Customer_0261,Beauty,Perfume,2.00,"? 1,942.93","? 3,885.86",? 853.71,South,Karnataka,Debit Card
+ORD00927,05-05-2025,CUST0245,Customer_0018,Electronics,Bluetooth Speaker,4.00,"? 8,960.14","? 35,840.56","? 7,842.26",North,Rajasthan,UPI
+ORD00928,15-12-2025,CUST0076,Customer_0131,Clothing,Jeans,5.00,"? 1,757.51","? 8,787.55","? 1,867.12",South,Tamil Nadu,Credit Card
+ORD00929,16-07-2025,CUST0204,Customer_0042,Electronics,USB Cable,1.00,"? 7,910.57","? 7,910.57","? 2,216.45",West,Gujarat,Cash on Delivery
+ORD00930,14-09-2025,CUST0273,Customer_0196,Clothing,Sneakers,3.00,"? 2,513.88","? 7,541.64","? 1,114.32",North,Rajasthan,Cash on Delivery
+ORD00931,26-06-2025,CUST0074,Customer_0138,Electronics,Smart Watch,5.00,"? 9,431.95","? 47,159.75","? 13,421.84",West,Gujarat,Cash on Delivery
+ORD00932,01-01-2025,CUST0050,Customer_0036,Home & Kitchen,Cookware Set,2.00,"? 4,944.24","? 9,888.48","? 1,933.12",West,Maharashtra,Debit Card
+ORD00933,27-12-2025,CUST0069,Customer_0102,Beauty,Perfume,2.00,"? 1,030.43","? 2,060.86",? 247.38,South,Karnataka,UPI
+ORD00934,04-04-2025,CUST0099,Customer_0133,Beauty,Perfume,2.00,? 622.21,"? 1,244.42",? 220.21,North,Delhi,Net Banking
+ORD00935,13-07-2025,CUST0064,Customer_0142,Electronics,Wireless Headphones,1.00,"? 3,870.94","? 3,870.94",? 601.05,South,Karnataka,Net Banking
+ORD00936,21-02-2025,CUST0005,Customer_0032,Clothing,Hoodie,4.00,"? 2,452.97","? 9,811.88","? 2,407.79",North,Uttar Pradesh,UPI
+ORD00937,04-01-2025,CUST0193,Customer_0267,Books,Data Science Book,1.00,? 498.26,? 498.26,? 142.04,West,Maharashtra,Cash on Delivery
+ORD00938,25-06-2025,CUST0162,Customer_0123,Home & Kitchen,Bedsheet,3.00,"? 2,382.01","? 7,146.03","? 1,617.27",North,Rajasthan,Cash on Delivery
+ORD00939,21-02-2025,CUST0002,Customer_0234,Books,Cooking Book,3.00,"? 1,590.58","? 4,771.74","? 1,143.06",West,Maharashtra,Credit Card
+ORD00940,25-12-2025,CUST0128,Customer_0189,Electronics,Power Bank,5.00,"? 3,713.88","? 18,569.40","? 4,011.68",West,Gujarat,Cash on Delivery
+ORD00941,23-11-2025,CUST0165,Customer_0009,Books,Data Science Book,2.00,? 155.16,? 310.32,? 84.46,North,Rajasthan,Debit Card
+ORD00942,10-11-2025,CUST0042,Customer_0179,Beauty,Perfume,5.00,"? 1,288.66","? 6,443.30","? 1,846.64",North,Delhi,Cash on Delivery
+ORD00943,31-12-2025,CUST0074,Customer_0267,Electronics,USB Cable,3.00,"? 7,482.50","? 22,447.50","? 5,671.80",North,Rajasthan,Net Banking
+ORD00944,04-06-2025,CUST0281,Customer_0240,Electronics,Smart Watch,4.00,"? 9,663.44","? 38,653.76","? 10,715.20",South,Karnataka,UPI
+ORD00945,04-12-2025,CUST0046,Customer_0055,Beauty,Perfume,2.00,? 647.36,"? 1,294.72",? 386.53,North,Delhi,UPI
+ORD00946,23-04-2025,CUST0132,Customer_0244,Clothing,T-Shirt,4.00,"? 2,752.19","? 11,008.76","? 2,492.44",East,West Bengal,Net Banking
+ORD00947,22-10-2025,CUST0034,Customer_0176,Beauty,Perfume,3.00,"? 2,199.06","? 6,597.18","? 1,848.77",West,Gujarat,Cash on Delivery
+ORD00948,01-03-2025,CUST0149,Customer_0045,Books,Novel,2.00,? 518.86,"? 1,037.72",? 103.37,North,Rajasthan,Net Banking
+ORD00949,10-06-2025,CUST0195,Customer_0296,Clothing,T-Shirt,5.00,"? 1,476.76","? 7,383.80","? 1,095.58",West,Gujarat,Net Banking
+ORD00950,13-06-2025,CUST0187,Customer_0065,Books,Children Book,4.00,"? 1,766.75","? 7,067.00","? 1,597.31",North,Delhi,Net Banking
+ORD00951,24-08-2025,CUST0162,Customer_0075,Clothing,Hoodie,4.00,? 329.40,"? 1,317.60",? 348.09,West,Gujarat,Cash on Delivery
+ORD00952,07-12-2025,CUST0018,Customer_0164,Beauty,Moisturizer,5.00,? 815.97,"? 4,079.85",? 777.31,South,Karnataka,UPI
+ORD00953,27-12-2025,CUST0193,Customer_0031,Home & Kitchen,Bedsheet,2.00,"? 3,096.40","? 6,192.80",? 703.47,North,Uttar Pradesh,Credit Card
+ORD00954,20-07-2025,CUST0154,Customer_0082,Clothing,T-Shirt,2.00,"? 3,041.69","? 6,083.38","? 1,220.01",West,Maharashtra,Debit Card
+ORD00955,20-07-2025,CUST0037,Customer_0271,Beauty,Moisturizer,3.00,"? 1,930.63","? 5,791.89",? 823.14,North,Uttar Pradesh,Credit Card
+ORD00956,25-10-2025,CUST0028,Customer_0156,Books,Cooking Book,1.00,? 365.99,? 365.99,? 81.99,North,Rajasthan,Net Banking
+ORD00957,16-03-2025,CUST0108,Customer_0112,Clothing,Jeans,4.00,"? 1,231.46","? 4,925.84","? 1,190.92",North,Uttar Pradesh,UPI
+ORD00958,07-08-2025,CUST0087,Customer_0029,Home & Kitchen,Coffee Maker,2.00,"? 2,415.20","? 4,830.40",? 764.31,West,Gujarat,Cash on Delivery
+ORD00959,29-11-2025,CUST0174,Customer_0223,Clothing,Jeans,1.00,"? 3,436.89","? 3,436.89",? 749.02,West,Maharashtra,Cash on Delivery
+ORD00960,08-09-2025,CUST0155,Customer_0089,Clothing,Kurta,1.00,"? 1,070.74","? 1,070.74",? 268.42,West,Maharashtra,UPI
+ORD00961,16-08-2025,CUST0189,Customer_0006,Beauty,Face Wash,3.00,"? 1,635.98","? 4,907.94",? 518.56,North,Rajasthan,UPI
+ORD00962,21-10-2025,CUST0246,Customer_0141,Beauty,Face Wash,1.00,"? 1,529.10","? 1,529.10",? 389.55,North,Delhi,Credit Card
+ORD00963,06-03-2025,CUST0051,Customer_0167,Beauty,Face Wash,4.00,? 851.15,"? 3,404.60",? 806.99,North,Uttar Pradesh,Net Banking
+ORD00964,02-10-2025,CUST0272,Customer_0251,Clothing,T-Shirt,1.00,"? 1,560.15","? 1,560.15",? 302.92,North,Rajasthan,Net Banking
+ORD00965,02-03-2025,CUST0093,Customer_0093,Books,Novel,2.00,"? 1,743.37","? 3,486.74",? 704.46,West,Gujarat,Debit Card
+ORD00966,01-12-2025,CUST0083,Customer_0045,Electronics,USB Cable,2.00,"? 7,113.43","? 14,226.86","? 1,941.79",West,Maharashtra,UPI
+ORD00967,06-10-2025,CUST0088,Customer_0217,Electronics,Wireless Headphones,5.00,"? 3,933.65","? 19,668.25","? 2,648.02",West,Gujarat,UPI
+ORD00968,23-10-2025,CUST0252,Customer_0161,Books,Children Book,5.00,? 884.12,"? 4,420.60","? 1,239.41",South,Tamil Nadu,Debit Card
+ORD00969,23-01-2025,CUST0122,Customer_0019,Books,Self Help Book,1.00,"? 1,243.32","? 1,243.32",? 138.22,North,Delhi,Credit Card
+ORD00970,07-03-2025,CUST0217,Customer_0039,Clothing,Sneakers,5.00,"? 1,449.01","? 7,245.05",? 986.00,North,Delhi,Cash on Delivery
+ORD00971,11-05-2025,CUST0218,Customer_0074,Clothing,Sneakers,4.00,? 566.41,"? 2,265.64",? 282.81,North,Rajasthan,Debit Card
+ORD00972,19-09-2025,CUST0084,Customer_0215,Clothing,Jeans,5.00,"? 2,403.42","? 12,017.10","? 1,797.75",East,West Bengal,Cash on Delivery
+ORD00973,19-05-2025,CUST0064,Customer_0273,Beauty,Face Wash,5.00,? 731.62,"? 3,658.10",? 843.10,West,Maharashtra,Cash on Delivery
+ORD00974,20-06-2025,CUST0140,Customer_0075,Electronics,Smart Watch,1.00,"? 4,672.42","? 4,672.42",? 655.08,East,West Bengal,UPI
+ORD00975,05-03-2025,CUST0090,Customer_0270,Beauty,Moisturizer,4.00,"? 2,386.69","? 9,546.76","? 2,000.45",North,Delhi,Cash on Delivery
+ORD00976,10-10-2025,CUST0139,Customer_0051,Electronics,Wireless Headphones,5.00,"? 10,452.08","? 52,260.40","? 6,143.96",East,West Bengal,Cash on Delivery
+ORD00977,26-07-2025,CUST0245,Customer_0066,Clothing,Hoodie,5.00,"? 2,065.35","? 10,326.75",? 847.72,East,West Bengal,Net Banking
+ORD00978,17-05-2025,CUST0028,Customer_0190,Clothing,Jeans,2.00,"? 1,512.16","? 3,024.32",? 693.20,South,Karnataka,Cash on Delivery
+ORD00979,28-08-2025,CUST0258,Customer_0147,Beauty,Moisturizer,4.00,"? 2,467.68","? 9,870.72","? 2,858.32",South,Karnataka,Net Banking
+ORD00980,28-07-2025,CUST0161,Customer_0047,Clothing,T-Shirt,1.00,"? 3,331.85","? 3,331.85",? 322.76,South,Tamil Nadu,Credit Card
+ORD00981,27-05-2025,CUST0284,Customer_0253,Electronics,Wireless Headphones,5.00,"? 1,160.23","? 5,801.15","? 1,692.06",South,Karnataka,Cash on Delivery
+ORD00982,17-12-2025,CUST0273,Customer_0064,Books,Cooking Book,4.00,? 971.38,"? 3,885.52",? 322.72,South,Karnataka,Credit Card
+ORD00983,06-05-2025,CUST0271,Customer_0022,Electronics,USB Cable,5.00,"? 9,121.18","? 45,605.90","? 8,149.93",North,Rajasthan,Credit Card
+ORD00984,10-03-2025,CUST0264,Customer_0181,Books,Novel,2.00,? 273.95,? 547.90,? 94.79,North,Delhi,Cash on Delivery
+ORD00985,14-12-2025,CUST0128,Customer_0277,Clothing,T-Shirt,1.00,"? 1,381.47","? 1,381.47",? 198.68,East,West Bengal,Cash on Delivery
+ORD00986,20-11-2025,CUST0292,Customer_0202,Home & Kitchen,Mixer Grinder,2.00,? 262.85,? 525.70,? 148.81,South,Tamil Nadu,Net Banking
+ORD00987,30-01-2025,CUST0183,Customer_0004,Electronics,USB Cable,5.00,"? 10,256.05","? 51,280.25","? 9,295.97",North,Uttar Pradesh,Debit Card
+ORD00988,06-04-2025,CUST0206,Customer_0182,Home & Kitchen,Coffee Maker,1.00,"? 2,260.90","? 2,260.90",? 231.28,West,Gujarat,Cash on Delivery
+ORD00989,20-03-2025,CUST0211,Customer_0064,Clothing,Kurta,5.00,"? 1,945.82","? 9,729.10",? 793.12,West,Gujarat,Debit Card
+ORD00990,06-07-2025,CUST0220,Customer_0094,Clothing,Sneakers,4.00,"? 1,497.79","? 5,991.16","? 1,548.95",North,Uttar Pradesh,UPI
+ORD00991,11-08-2025,CUST0003,Customer_0184,Beauty,Shampoo,2.00,? 478.70,? 957.40,? 99.90,North,Uttar Pradesh,Debit Card
+ORD00992,19-06-2025,CUST0017,Customer_0083,Electronics,Smart Watch,4.00,"? 5,342.14","? 21,368.56","? 6,167.88",South,Karnataka,Debit Card
+ORD00993,16-12-2025,CUST0066,Customer_0167,Electronics,Power Bank,4.00,"? 6,826.42","? 27,305.68","? 5,199.24",North,Rajasthan,Cash on Delivery
+ORD00994,06-03-2025,CUST0080,Customer_0177,Clothing,Sneakers,1.00,"? 2,836.68","? 2,836.68",? 235.45,West,Gujarat,Credit Card
+ORD00995,05-01-2025,CUST0223,Customer_0246,Electronics,Bluetooth Speaker,4.00,"? 11,729.04","? 46,916.16","? 6,666.28",East,West Bengal,UPI
+ORD00996,19-09-2025,CUST0096,Customer_0128,Beauty,Moisturizer,5.00,? 508.36,"? 2,541.80",? 632.10,North,Delhi,Debit Card
+ORD00997,22-02-2025,CUST0258,Customer_0093,Clothing,Jeans,2.00,"? 1,816.46","? 3,632.92","? 1,083.92",North,Rajasthan,Net Banking
+ORD00998,20-01-2025,CUST0141,Customer_0099,Clothing,Jeans,1.00,? 723.35,? 723.35,? 125.71,North,Delhi,Net Banking
+ORD00999,26-09-2025,CUST0157,Customer_0119,Clothing,Jeans,1.00,"? 1,517.13","? 1,517.13",? 233.58,West,Gujarat,Cash on Delivery
+ORD01000,18-05-2025,CUST0187,Customer_0144,Electronics,Bluetooth Speaker,1.00,"? 3,999.33","? 3,999.33",? 946.04,North,Rajasthan,Credit Card
